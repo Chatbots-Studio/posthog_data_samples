@@ -1,0 +1,18 @@
+{
+  "month": "2026-03",
+  "period_start": "2026-03-01",
+  "period_end": "2026-03-31",
+  "year": 2026,
+  "month_number": 3,
+  "generated_at": "2026-03-26T16:19:43.119Z",
+  "files": {
+    "views": "cashback_section_viewed.json",
+    "selections": "cashback_types_selected.json",
+    "transactions": "client_transaction.json"
+  },
+  "counts": {
+    "views": 5000,
+    "selections": 2000,
+    "transactions": 30000
+  }
+}

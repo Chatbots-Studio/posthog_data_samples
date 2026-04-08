@@ -1,0 +1,15 @@
+{
+  "name": "posthog-test-events",
+  "version": "1.0.0",
+  "description": "Генерація та відправка тестових подій PostHog (кешбек-сценарії)",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "generate": "node generate-events.js",
+    "send": "node send-events.js",
+    "send:dry-run": "node send-events.js --dry-run"
+  }
+}

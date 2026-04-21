@@ -1,0 +1,1698 @@
+[
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000328",
+      "client_id": "client_000328",
+      "communication_id": "comm_00000006",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-16T20:48:28.038Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000065",
+      "client_id": "client_000065",
+      "communication_id": "comm_00000019",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-25T16:37:14.791Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000273",
+      "client_id": "client_000273",
+      "communication_id": "comm_00000025",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-20T00:24:05.659Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000290",
+      "client_id": "client_000290",
+      "communication_id": "comm_00000032",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-25T11:23:49.733Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000199",
+      "client_id": "client_000199",
+      "communication_id": "comm_00000045",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-12T22:59:50.013Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000222",
+      "client_id": "client_000222",
+      "communication_id": "comm_00000061",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-04T04:05:34.830Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000268",
+      "client_id": "client_000268",
+      "communication_id": "comm_00000079",
+      "campaign_id": "cmp_p1_3_lapse_day7",
+      "template_id": "tpl_lapse_day7",
+      "practice": "P1.3",
+      "channel": "push",
+      "trigger_type": "no_tx_day_7",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-08T05:24:51.081Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000039",
+      "client_id": "client_000039",
+      "communication_id": "comm_00000082",
+      "campaign_id": "cmp_p1_3_lapse_day7",
+      "template_id": "tpl_lapse_day7",
+      "practice": "P1.3",
+      "channel": "push",
+      "trigger_type": "no_tx_day_7",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-02T19:31:23.165Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000173",
+      "client_id": "client_000173",
+      "communication_id": "comm_00000095",
+      "campaign_id": "cmp_p2_1_boost_second_tx",
+      "template_id": "tpl_boost_second_tx",
+      "practice": "P2.1",
+      "channel": "push",
+      "trigger_type": "first_tx",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-03T00:37:53.313Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000244",
+      "client_id": "client_000244",
+      "communication_id": "comm_00000096",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-12T01:38:39.423Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000185",
+      "client_id": "client_000185",
+      "communication_id": "comm_00000110",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-20T09:07:19.294Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000235",
+      "client_id": "client_000235",
+      "communication_id": "comm_00000116",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-17T20:13:51.059Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000395",
+      "client_id": "client_000395",
+      "communication_id": "comm_00000152",
+      "campaign_id": "cmp_p3_3_grace_period",
+      "template_id": "tpl_grace_period",
+      "practice": "P3.3",
+      "channel": "push",
+      "trigger_type": "tx_over_3000",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-14T00:00:15.232Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000272",
+      "client_id": "client_000272",
+      "communication_id": "comm_00000154",
+      "campaign_id": "cmp_p2_1_boost_second_tx",
+      "template_id": "tpl_boost_second_tx",
+      "practice": "P2.1",
+      "channel": "push",
+      "trigger_type": "first_tx",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-01T14:00:13.060Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000284",
+      "client_id": "client_000284",
+      "communication_id": "comm_00000171",
+      "campaign_id": "cmp_p3_1_installment_big_tx",
+      "template_id": "tpl_installment_big_tx",
+      "practice": "P3.1",
+      "channel": "push",
+      "trigger_type": "tx_over_3000",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-02T12:41:35.381Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000172",
+      "client_id": "client_000172",
+      "communication_id": "comm_00000185",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-29T11:15:24.187Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000094",
+      "client_id": "client_000094",
+      "communication_id": "comm_00000188",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-11T19:16:13.902Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000409",
+      "client_id": "client_000409",
+      "communication_id": "comm_00000190",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-21T04:15:58.890Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000328",
+      "client_id": "client_000328",
+      "communication_id": "comm_00000193",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-03T23:05:25.068Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000079",
+      "client_id": "client_000079",
+      "communication_id": "comm_00000194",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-30T13:58:18.132Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000265",
+      "client_id": "client_000265",
+      "communication_id": "comm_00000205",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-07T10:32:15.100Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000389",
+      "client_id": "client_000389",
+      "communication_id": "comm_00000233",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-17T14:45:14.736Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000376",
+      "client_id": "client_000376",
+      "communication_id": "comm_00000245",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-19T09:32:16.172Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000072",
+      "client_id": "client_000072",
+      "communication_id": "comm_00000259",
+      "campaign_id": "cmp_partner_monthly_offer",
+      "template_id": "tpl_partner_offer_email",
+      "practice": "partner",
+      "channel": "email",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-07T18:21:58.265Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000253",
+      "client_id": "client_000253",
+      "communication_id": "comm_00000262",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-14T08:43:45.535Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000214",
+      "client_id": "client_000214",
+      "communication_id": "comm_00000283",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-23T10:24:30.941Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000188",
+      "client_id": "client_000188",
+      "communication_id": "comm_00000302",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-23T14:09:58.628Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000281",
+      "client_id": "client_000281",
+      "communication_id": "comm_00000358",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-20T17:35:19.583Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000344",
+      "client_id": "client_000344",
+      "communication_id": "comm_00000360",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-27T00:27:27.575Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000207",
+      "client_id": "client_000207",
+      "communication_id": "comm_00000372",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-22T15:45:42.708Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000167",
+      "client_id": "client_000167",
+      "communication_id": "comm_00000401",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-06T19:47:24.692Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000285",
+      "client_id": "client_000285",
+      "communication_id": "comm_00000418",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-13T22:20:08.914Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000274",
+      "client_id": "client_000274",
+      "communication_id": "comm_00000420",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-07T13:53:48.773Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000394",
+      "client_id": "client_000394",
+      "communication_id": "comm_00000430",
+      "campaign_id": "cmp_partner_monthly_offer",
+      "template_id": "tpl_partner_offer_email",
+      "practice": "partner",
+      "channel": "email",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-20T22:16:08.225Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000014",
+      "client_id": "client_000014",
+      "communication_id": "comm_00000433",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-17T07:00:06.018Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000305",
+      "client_id": "client_000305",
+      "communication_id": "comm_00000444",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-16T01:52:53.438Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000092",
+      "client_id": "client_000092",
+      "communication_id": "comm_00000457",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-13T11:31:53.983Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000312",
+      "client_id": "client_000312",
+      "communication_id": "comm_00000494",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-10T10:12:06.752Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000045",
+      "client_id": "client_000045",
+      "communication_id": "comm_00000509",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-12T16:21:18.549Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000031",
+      "client_id": "client_000031",
+      "communication_id": "comm_00000511",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-03T11:26:53.233Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000255",
+      "client_id": "client_000255",
+      "communication_id": "comm_00000513",
+      "campaign_id": "cmp_partner_monthly_offer",
+      "template_id": "tpl_partner_offer_email",
+      "practice": "partner",
+      "channel": "email",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-06T21:48:26.416Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000061",
+      "client_id": "client_000061",
+      "communication_id": "comm_00000516",
+      "campaign_id": "cmp_p3_1_installment_big_tx",
+      "template_id": "tpl_installment_big_tx",
+      "practice": "P3.1",
+      "channel": "push",
+      "trigger_type": "tx_over_3000",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-30T15:46:05.420Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000290",
+      "client_id": "client_000290",
+      "communication_id": "comm_00000527",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-12T15:53:35.104Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000133",
+      "client_id": "client_000133",
+      "communication_id": "comm_00000536",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-11T06:56:13.873Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000413",
+      "client_id": "client_000413",
+      "communication_id": "comm_00000546",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-25T14:28:52.474Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000367",
+      "client_id": "client_000367",
+      "communication_id": "comm_00000547",
+      "campaign_id": "cmp_p3_1_installment_big_tx",
+      "template_id": "tpl_installment_big_tx",
+      "practice": "P3.1",
+      "channel": "push",
+      "trigger_type": "tx_over_3000",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-15T18:50:44.128Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000010",
+      "client_id": "client_000010",
+      "communication_id": "comm_00000548",
+      "campaign_id": "cmp_p3_1_installment_big_tx",
+      "template_id": "tpl_installment_big_tx",
+      "practice": "P3.1",
+      "channel": "push",
+      "trigger_type": "tx_over_3000",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-12T15:50:24.910Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000277",
+      "client_id": "client_000277",
+      "communication_id": "comm_00000587",
+      "campaign_id": "cmp_partner_monthly_offer",
+      "template_id": "tpl_partner_offer_email",
+      "practice": "partner",
+      "channel": "email",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-03T22:17:00.996Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000357",
+      "client_id": "client_000357",
+      "communication_id": "comm_00000590",
+      "campaign_id": "cmp_p2_1_boost_second_tx",
+      "template_id": "tpl_boost_second_tx",
+      "practice": "P2.1",
+      "channel": "push",
+      "trigger_type": "first_tx",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-04T04:59:04.235Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000104",
+      "client_id": "client_000104",
+      "communication_id": "comm_00000604",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-26T12:37:28.562Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000027",
+      "client_id": "client_000027",
+      "communication_id": "comm_00000620",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-15T23:56:55.291Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000348",
+      "client_id": "client_000348",
+      "communication_id": "comm_00000663",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-05T08:20:53.887Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000041",
+      "client_id": "client_000041",
+      "communication_id": "comm_00000673",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-23T21:28:38.775Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000155",
+      "client_id": "client_000155",
+      "communication_id": "comm_00000679",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-21T23:31:28.784Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000174",
+      "client_id": "client_000174",
+      "communication_id": "comm_00000685",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-20T07:11:18.501Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000375",
+      "client_id": "client_000375",
+      "communication_id": "comm_00000686",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-12T23:01:44.302Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000207",
+      "client_id": "client_000207",
+      "communication_id": "comm_00000691",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-20T10:39:55.448Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000237",
+      "client_id": "client_000237",
+      "communication_id": "comm_00000698",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-27T13:59:52.810Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000054",
+      "client_id": "client_000054",
+      "communication_id": "comm_00000710",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-16T07:00:25.330Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000353",
+      "client_id": "client_000353",
+      "communication_id": "comm_00000721",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-06T02:07:03.290Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000120",
+      "client_id": "client_000120",
+      "communication_id": "comm_00000723",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-21T11:28:39.278Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000327",
+      "client_id": "client_000327",
+      "communication_id": "comm_00000744",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-10T23:01:36.947Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000007",
+      "client_id": "client_000007",
+      "communication_id": "comm_00000746",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-25T23:25:44.952Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000038",
+      "client_id": "client_000038",
+      "communication_id": "comm_00000771",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-18T03:37:10.253Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000167",
+      "client_id": "client_000167",
+      "communication_id": "comm_00000777",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-01T13:59:00.976Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000279",
+      "client_id": "client_000279",
+      "communication_id": "comm_00000791",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-14T19:52:56.189Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000176",
+      "client_id": "client_000176",
+      "communication_id": "comm_00000793",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-08T17:30:50.764Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000186",
+      "client_id": "client_000186",
+      "communication_id": "comm_00000810",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-16T14:31:38.887Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000189",
+      "client_id": "client_000189",
+      "communication_id": "comm_00000813",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-12T01:43:37.604Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000310",
+      "client_id": "client_000310",
+      "communication_id": "comm_00000823",
+      "campaign_id": "cmp_p3_3_grace_period",
+      "template_id": "tpl_grace_period",
+      "practice": "P3.3",
+      "channel": "push",
+      "trigger_type": "tx_over_3000",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-26T05:34:03.524Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000249",
+      "client_id": "client_000249",
+      "communication_id": "comm_00000830",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-06T11:35:44.890Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000039",
+      "client_id": "client_000039",
+      "communication_id": "comm_00000843",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-09T06:57:45.534Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000241",
+      "client_id": "client_000241",
+      "communication_id": "comm_00000849",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-07T08:55:42.416Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000111",
+      "client_id": "client_000111",
+      "communication_id": "comm_00000851",
+      "campaign_id": "cmp_p2_1_boost_second_tx",
+      "template_id": "tpl_boost_second_tx",
+      "practice": "P2.1",
+      "channel": "push",
+      "trigger_type": "first_tx",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-26T08:18:24.724Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000270",
+      "client_id": "client_000270",
+      "communication_id": "comm_00000858",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-04T22:55:13.397Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000079",
+      "client_id": "client_000079",
+      "communication_id": "comm_00000866",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-30T04:58:05.832Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000248",
+      "client_id": "client_000248",
+      "communication_id": "comm_00000872",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-10T18:01:47.187Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000325",
+      "client_id": "client_000325",
+      "communication_id": "comm_00000875",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-17T18:10:34.085Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000305",
+      "client_id": "client_000305",
+      "communication_id": "comm_00000886",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-04T02:47:13.058Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000315",
+      "client_id": "client_000315",
+      "communication_id": "comm_00000894",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-27T02:15:27.886Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000119",
+      "client_id": "client_000119",
+      "communication_id": "comm_00000898",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-05T20:27:17.465Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000242",
+      "client_id": "client_000242",
+      "communication_id": "comm_00000900",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-05T01:36:38.640Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000273",
+      "client_id": "client_000273",
+      "communication_id": "comm_00000904",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-05T02:03:56.150Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000314",
+      "client_id": "client_000314",
+      "communication_id": "comm_00000905",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-16T10:26:08.663Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000065",
+      "client_id": "client_000065",
+      "communication_id": "comm_00000931",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-02T22:29:45.198Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000160",
+      "client_id": "client_000160",
+      "communication_id": "comm_00000932",
+      "campaign_id": "cmp_p3_3_grace_period",
+      "template_id": "tpl_grace_period",
+      "practice": "P3.3",
+      "channel": "push",
+      "trigger_type": "tx_over_3000",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-03T08:14:42.121Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000150",
+      "client_id": "client_000150",
+      "communication_id": "comm_00000942",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-11T03:42:41.663Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000324",
+      "client_id": "client_000324",
+      "communication_id": "comm_00000943",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-08T09:22:04.913Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000245",
+      "client_id": "client_000245",
+      "communication_id": "comm_00000958",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-30T20:46:56.049Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000085",
+      "client_id": "client_000085",
+      "communication_id": "comm_00000959",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-24T19:21:53.659Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000056",
+      "client_id": "client_000056",
+      "communication_id": "comm_00000966",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-22T00:21:29.121Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000172",
+      "client_id": "client_000172",
+      "communication_id": "comm_00000969",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-16T12:52:53.179Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000066",
+      "client_id": "client_000066",
+      "communication_id": "comm_00000993",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-26T17:21:55.234Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000249",
+      "client_id": "client_000249",
+      "communication_id": "comm_00001009",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-16T16:53:53.196Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000097",
+      "client_id": "client_000097",
+      "communication_id": "comm_00001020",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-29T21:52:15.131Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000247",
+      "client_id": "client_000247",
+      "communication_id": "comm_00001052",
+      "campaign_id": "cmp_partner_monthly_offer",
+      "template_id": "tpl_partner_offer_email",
+      "practice": "partner",
+      "channel": "email",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-21T15:55:39.697Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000036",
+      "client_id": "client_000036",
+      "communication_id": "comm_00001077",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-29T12:26:05.344Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000202",
+      "client_id": "client_000202",
+      "communication_id": "comm_00001086",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-19T12:50:29.197Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000397",
+      "client_id": "client_000397",
+      "communication_id": "comm_00001088",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-03T01:43:52.536Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000196",
+      "client_id": "client_000196",
+      "communication_id": "comm_00001091",
+      "campaign_id": "cmp_partner_flash_sms",
+      "template_id": "tpl_partner_offer_sms",
+      "practice": "partner",
+      "channel": "sms",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-15T21:05:40.066Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000370",
+      "client_id": "client_000370",
+      "communication_id": "comm_00001114",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-16T03:48:28.208Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000054",
+      "client_id": "client_000054",
+      "communication_id": "comm_00001122",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-04T03:49:28.907Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000211",
+      "client_id": "client_000211",
+      "communication_id": "comm_00001140",
+      "campaign_id": "cmp_partner_monthly_offer",
+      "template_id": "tpl_partner_offer_email",
+      "practice": "partner",
+      "channel": "email",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-10T12:12:03.423Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000154",
+      "client_id": "client_000154",
+      "communication_id": "comm_00001164",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-02T01:49:50.638Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000316",
+      "client_id": "client_000316",
+      "communication_id": "comm_00001185",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-11T08:23:13.857Z"
+  },
+  {
+    "event": "communication_clicked",
+    "properties": {
+      "distinct_id": "client_000108",
+      "client_id": "client_000108",
+      "communication_id": "comm_00001207",
+      "campaign_id": "cmp_p2_3_milestone_5_tx",
+      "template_id": "tpl_milestone_5_tx",
+      "practice": "P2.3",
+      "channel": "in_app",
+      "trigger_type": "monthly_digest",
+      "experiment_type": "exclusion_holdout",
+      "variant": "treatment"
+    },
+    "timestamp": "2026-04-04T09:40:01.350Z"
+  }
+]

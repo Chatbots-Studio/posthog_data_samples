@@ -1,22 +1,24 @@
 #!/usr/bin/env node
 /**
- * Читає згенеровані JSON з папки <base>/<YYYY-MM>/ і відправляє в PostHog.
+ * Читає згенеровані JSON-файли з папки <dir>/<YYYY-MM>/ і відправляє у PostHog (EU).
  *
- *   POSTHOG_API_KEY=phc_... node send-events.js --month 2026-03
- *   node send-events.js --period 2026-03 --only views
- *   node send-events.js --month 2026-03 --dir ./events --dry-run
- *   node send-events.js --month 2026-03 --no-progress   # без рядка прогресу
+ *   POSTHOG_API_KEY=phc_... node send-events.js                     # усі місяці з events/
+ *   POSTHOG_API_KEY=phc_... node send-events.js --month 2026-03    # тільки один місяць
+ *   node send-events.js --only transactions
+ *   node send-events.js --only card_activated
+ *   node send-events.js --dry-run
+ *   node send-events.js --dir ./my-data
  */
 
-import { readFile } from "node:fs/promises";
-import { join } from "node:path";
-import { access } from "node:fs/promises";
+import { readFile, access, readdir } from "node:fs/promises";
 import { constants as fsConstants } from "node:fs";
+import { join } from "node:path";
 import {
-  monthRange,
   EVENT_FILES,
+  EVENT_GROUPS,
   filterEvents,
-} from "./lib/generate-cashback-events.js";
+  parseYearMonth,
+} from "./lib/generate-activation-events.js";
 
 const POSTHOG_HOST = "https://eu.i.posthog.com/capture/";
 const BATCH_SIZE = 100;
@@ -44,9 +46,50 @@ function parseArgs(argv) {
       out.showProgress = false;
     } else if (a === "--batch-size" && argv[i + 1]) {
       out.batchSize = Math.max(1, parseInt(argv[++i], 10) || BATCH_SIZE);
+    } else if (a === "--help" || a === "-h") {
+      printHelp();
+      process.exit(0);
     }
   }
   return out;
+}
+
+function printHelp() {
+  console.log(`node send-events.js [опції]
+
+  --month YYYY-MM        відправити тільки один місяць (папку).
+                         Якщо не вказано — відправить усі місяці з --dir по черзі.
+  --dir <path>           базова папка з подіями (дефолт events)
+  --only <group|type>    фільтр; група: all | ${Object.keys(EVENT_GROUPS).join(
+    " | "
+  )}
+                         або ім'я події, напр. card_activated, transaction_completed
+  --dry-run              підрахунок без відправки
+  --batch-size N         розмір пакета для PostHog API (дефолт ${BATCH_SIZE})
+  --no-progress          без рядка прогресу
+
+Потрібна змінна POSTHOG_API_KEY (крім --dry-run).`);
+}
+
+const MONTH_RE = /^\d{4}-(0[1-9]|1[0-2])$/;
+
+async function findMonthDirs(baseDir) {
+  let entries;
+  try {
+    entries = await readdir(baseDir, { withFileTypes: true });
+  } catch (e) {
+    throw new Error(`Не вдалося прочитати --dir ${baseDir}: ${e.message}`);
+  }
+  const months = entries
+    .filter((d) => d.isDirectory() && MONTH_RE.test(d.name))
+    .map((d) => d.name)
+    .sort();
+  if (months.length === 0) {
+    throw new Error(
+      `У ${baseDir} немає підпапок YYYY-MM. Спочатку: node generate-events.js --month ...`
+    );
+  }
+  return months;
 }
 
 async function pathExists(p) {
@@ -58,36 +101,26 @@ async function pathExists(p) {
   }
 }
 
-async function loadEventsFromDir(absDir, only) {
+async function loadEventsFromDir(absDir) {
   const metaPath = join(absDir, "meta.json");
   if (!(await pathExists(metaPath))) {
-    throw new Error(`Немає meta.json у ${absDir}. Спочатку: node generate-events.js --month ...`);
+    throw new Error(
+      `Немає meta.json у ${absDir}. Спочатку: node generate-events.js --month ...`
+    );
   }
+  const meta = JSON.parse(await readFile(metaPath, "utf8"));
 
-  const metaRaw = await readFile(metaPath, "utf8");
-  const meta = JSON.parse(metaRaw);
-
-  const data = {
-    meta,
-    views: [],
-    selections: [],
-    transactions: [],
-  };
-
-  async function loadArr(file) {
+  const eventsByType = {};
+  for (const [type, file] of Object.entries(EVENT_FILES)) {
     const p = join(absDir, file);
     if (!(await pathExists(p))) {
-      throw new Error(`Немає файлу ${p}`);
+      eventsByType[type] = [];
+      continue;
     }
     const raw = await readFile(p, "utf8");
-    return JSON.parse(raw);
+    eventsByType[type] = JSON.parse(raw);
   }
-
-  data.views = await loadArr(EVENT_FILES.views);
-  data.selections = await loadArr(EVENT_FILES.selections);
-  data.transactions = await loadArr(EVENT_FILES.transactions);
-
-  return { data, events: filterEvents(data, only) };
+  return { meta, eventsByType };
 }
 
 async function postBatch(apiKey, items, dryRun) {
@@ -112,13 +145,9 @@ function formatProgressLine(sent, total, batchNum, batchCount) {
   return `Відправка: ${sent}/${total} (${pct}%)  пакет ${batchNum}/${batchCount}`;
 }
 
-/**
- * У терміналі (TTY) — один рядок з \\r; у пайпі/файлі — рядок кожні ~5% + фінал.
- */
 function createProgressReporter(total, batchCount) {
   const isTTY = process.stdout.isTTY;
   let lastBucket = -1;
-
   return function report(sent, batchNum) {
     const line = formatProgressLine(sent, total, batchNum, batchCount);
     if (isTTY) {
@@ -151,9 +180,7 @@ async function sendEvents(apiKey, events, { dryRun, batchSize, showProgress }) {
     }));
     await postBatch(apiKey, chunk, dryRun);
     sent += chunk.length;
-    if (report) {
-      report(sent, batchNum);
-    }
+    if (report) report(sent, batchNum);
     if (!dryRun && i + batchSize < events.length) {
       await new Promise((r) => setTimeout(r, 50));
     }
@@ -162,33 +189,25 @@ async function sendEvents(apiKey, events, { dryRun, batchSize, showProgress }) {
   if (report && process.stdout.isTTY && total > 0) {
     process.stdout.write("\n");
   }
-
   return sent;
 }
 
-async function main() {
-  const args = parseArgs(process.argv);
-  const apiKey = process.env.POSTHOG_API_KEY?.trim();
-  if (!args.dryRun && !apiKey) {
-    console.error("Задайте POSTHOG_API_KEY або використайте --dry-run");
-    process.exit(1);
-  }
-  if (!args.month) {
-    console.error("Потрібно: --month YYYY-MM або --period YYYY-MM (папка з даними)");
-    process.exit(1);
-  }
-
-  monthRange(args.month);
-  const absDir = join(args.dir, args.month.trim());
-
-  const { data, events } = await loadEventsFromDir(absDir, args.only);
+async function sendMonth(month, args, apiKey) {
+  const absDir = join(args.dir, month);
+  const { meta, eventsByType } = await loadEventsFromDir(absDir);
+  const events = filterEvents(eventsByType, args.only);
 
   console.log(
     JSON.stringify(
       {
         source: absDir,
         only: args.only,
-        meta_from_file: data.meta,
+        meta_from_file: {
+          month: meta.month,
+          m0_month: meta.m0_month,
+          cohort_size: meta.cohort_size,
+          counts: meta.counts,
+        },
         sending: events.length,
       },
       null,
@@ -202,11 +221,50 @@ async function main() {
     showProgress: args.showProgress,
   });
   console.log(
-    args.dryRun ? `[dry-run] підготовлено до відправки ${sent} подій` : `Відправлено ${sent} подій`
+    args.dryRun
+      ? `[dry-run] підготовлено до відправки ${sent} подій (${month})`
+      : `Відправлено ${sent} подій (${month})`
   );
+  return sent;
+}
+
+async function main() {
+  const args = parseArgs(process.argv);
+  const apiKey = process.env.POSTHOG_API_KEY?.trim();
+  if (!args.dryRun && !apiKey) {
+    console.error("Задайте POSTHOG_API_KEY або використайте --dry-run");
+    process.exit(1);
+  }
+
+  let months;
+  if (args.month) {
+    parseYearMonth(args.month);
+    months = [args.month.trim()];
+  } else {
+    months = await findMonthDirs(args.dir);
+    console.log(
+      `Без --month: знайдено ${months.length} місяців у ${args.dir}: ${months.join(", ")}`
+    );
+  }
+
+  let grandTotal = 0;
+  for (const m of months) {
+    if (months.length > 1) {
+      console.log(`\n=== ${m} ===`);
+    }
+    grandTotal += await sendMonth(m, args, apiKey);
+  }
+
+  if (months.length > 1) {
+    console.log(
+      args.dryRun
+        ? `\n[dry-run] усього підготовлено ${grandTotal} подій за ${months.length} міс`
+        : `\nУсього відправлено ${grandTotal} подій за ${months.length} міс`
+    );
+  }
 }
 
 main().catch((e) => {
-  console.error(e.message || e);
+  console.error(e.stack || e.message || e);
   process.exit(1);
 });

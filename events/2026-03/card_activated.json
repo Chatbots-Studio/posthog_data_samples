@@ -1,0 +1,7023 @@
+[
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000001",
+      "client_id": "client_000001",
+      "card_id": "card_000001",
+      "ip_address": "74.53.188.161",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 835,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T13:25:38.486Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000002",
+      "client_id": "client_000002",
+      "card_id": "card_000002",
+      "ip_address": "141.76.234.142",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 22500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 575,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T09:07:43.707Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000003",
+      "client_id": "client_000003",
+      "card_id": "card_000003",
+      "ip_address": "158.61.238.179",
+      "os": "Web",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 301,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T12:44:10.023Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000004",
+      "client_id": "client_000004",
+      "card_id": "card_000004",
+      "ip_address": "176.196.56.247",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 36000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "premium",
+      "risk_score": 455,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-13T09:32:52.951Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000005",
+      "client_id": "client_000005",
+      "card_id": "card_000005",
+      "ip_address": "119.180.242.4",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 11000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 493,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T03:17:10.572Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000006",
+      "client_id": "client_000006",
+      "card_id": "card_000006",
+      "ip_address": "48.192.44.113",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 42500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 580,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T07:01:55.723Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000007",
+      "client_id": "client_000007",
+      "card_id": "card_000007",
+      "ip_address": "173.97.192.161",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 14500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 569,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T21:58:17.475Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000008",
+      "client_id": "client_000008",
+      "card_id": "card_000008",
+      "ip_address": "216.157.186.160",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 4000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 829,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T22:56:30.074Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000009",
+      "client_id": "client_000009",
+      "card_id": "card_000009",
+      "ip_address": "213.99.179.145",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 12000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "premium",
+      "risk_score": 463,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T12:55:41.467Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000010",
+      "client_id": "client_000010",
+      "card_id": "card_000010",
+      "ip_address": "68.1.58.162",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 40000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 592,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-10T02:03:41.079Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000011",
+      "client_id": "client_000011",
+      "card_id": "card_000011",
+      "ip_address": "89.9.166.58",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 22500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 414,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T15:10:23.845Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000012",
+      "client_id": "client_000012",
+      "card_id": "card_000012",
+      "ip_address": "222.247.143.108",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 31000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 261,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T10:28:18.379Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000013",
+      "client_id": "client_000013",
+      "card_id": "card_000013",
+      "ip_address": "242.79.31.4",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 12000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "premium",
+      "risk_score": 605,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T10:50:52.415Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000014",
+      "client_id": "client_000014",
+      "card_id": "card_000014",
+      "ip_address": "201.104.185.60",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 9000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 547,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T00:19:35.016Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000015",
+      "client_id": "client_000015",
+      "card_id": "card_000015",
+      "ip_address": "204.127.13.123",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 43000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 584,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T13:55:20.914Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000016",
+      "client_id": "client_000016",
+      "card_id": "card_000016",
+      "ip_address": "243.240.65.87",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 7000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 726,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T15:21:41.312Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000017",
+      "client_id": "client_000017",
+      "card_id": "card_000017",
+      "ip_address": "106.48.186.5",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 322,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T08:53:25.582Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000018",
+      "client_id": "client_000018",
+      "card_id": "card_000018",
+      "ip_address": "240.227.224.131",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 9000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 859,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-27T12:01:49.075Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000019",
+      "client_id": "client_000019",
+      "card_id": "card_000019",
+      "ip_address": "232.218.196.50",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "premium",
+      "risk_score": 450,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T22:01:57.952Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000020",
+      "client_id": "client_000020",
+      "card_id": "card_000020",
+      "ip_address": "128.178.123.161",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 771,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-10T17:24:38.755Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000021",
+      "client_id": "client_000021",
+      "card_id": "card_000021",
+      "ip_address": "129.131.138.175",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 9500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 816,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T21:57:21.622Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000022",
+      "client_id": "client_000022",
+      "card_id": "card_000022",
+      "ip_address": "227.253.144.42",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 10500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 695,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-13T09:16:58.029Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000023",
+      "client_id": "client_000023",
+      "card_id": "card_000023",
+      "ip_address": "157.143.54.78",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 12500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 468,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T18:13:39.104Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000024",
+      "client_id": "client_000024",
+      "card_id": "card_000024",
+      "ip_address": "130.64.206.18",
+      "os": "Web",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "premium",
+      "risk_score": 714,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T16:35:44.477Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000025",
+      "client_id": "client_000025",
+      "card_id": "card_000025",
+      "ip_address": "173.21.87.160",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 116000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 345,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T02:09:35.907Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000026",
+      "client_id": "client_000026",
+      "card_id": "card_000026",
+      "ip_address": "109.206.210.12",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 45500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 639,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T19:46:34.665Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000027",
+      "client_id": "client_000027",
+      "card_id": "card_000027",
+      "ip_address": "169.200.212.147",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 20500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 680,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T09:58:13.268Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000028",
+      "client_id": "client_000028",
+      "card_id": "card_000028",
+      "ip_address": "65.233.138.56",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 8000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "premium",
+      "risk_score": 544,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T07:40:00.402Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000029",
+      "client_id": "client_000029",
+      "card_id": "card_000029",
+      "ip_address": "174.216.142.15",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 39000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 692,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T01:33:00.775Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000030",
+      "client_id": "client_000030",
+      "card_id": "card_000030",
+      "ip_address": "100.208.122.200",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 28500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 677,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T03:14:37.516Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000031",
+      "client_id": "client_000031",
+      "card_id": "card_000031",
+      "ip_address": "187.47.212.212",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 29000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 460,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T19:28:50.372Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000032",
+      "client_id": "client_000032",
+      "card_id": "card_000032",
+      "ip_address": "240.236.70.72",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 34500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 790,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T18:49:01.181Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000033",
+      "client_id": "client_000033",
+      "card_id": "card_000033",
+      "ip_address": "25.147.8.122",
+      "os": "Web",
+      "product_type": "credit_light",
+      "credit_limit": 5000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 464,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-27T03:28:16.759Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000034",
+      "client_id": "client_000034",
+      "card_id": "card_000034",
+      "ip_address": "248.232.141.51",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 420,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T13:42:52.772Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000035",
+      "client_id": "client_000035",
+      "card_id": "card_000035",
+      "ip_address": "14.80.103.116",
+      "os": "Web",
+      "product_type": "credit_standard",
+      "credit_limit": 30500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "premium",
+      "risk_score": 530,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T00:37:40.426Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000036",
+      "client_id": "client_000036",
+      "card_id": "card_000036",
+      "ip_address": "206.55.18.130",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 16000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 450,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T00:00:56.947Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000037",
+      "client_id": "client_000037",
+      "card_id": "card_000037",
+      "ip_address": "137.222.151.175",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 28500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 504,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T17:26:31.814Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000038",
+      "client_id": "client_000038",
+      "card_id": "card_000038",
+      "ip_address": "82.123.245.229",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 464,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-27T02:58:36.836Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000039",
+      "client_id": "client_000039",
+      "card_id": "card_000039",
+      "ip_address": "53.147.141.69",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 56000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 855,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T18:17:44.574Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000040",
+      "client_id": "client_000040",
+      "card_id": "card_000040",
+      "ip_address": "161.162.125.73",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 315,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-10T20:22:44.959Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000041",
+      "client_id": "client_000041",
+      "card_id": "card_000041",
+      "ip_address": "55.102.129.55",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 10500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 580,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T15:34:18.082Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000042",
+      "client_id": "client_000042",
+      "card_id": "card_000042",
+      "ip_address": "221.87.127.75",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 4000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 866,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T03:21:14.656Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000043",
+      "client_id": "client_000043",
+      "card_id": "card_000043",
+      "ip_address": "147.67.117.135",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 9000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 745,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-10T11:32:25.837Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000044",
+      "client_id": "client_000044",
+      "card_id": "card_000044",
+      "ip_address": "200.231.224.211",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 47500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 796,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T20:07:32.055Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000045",
+      "client_id": "client_000045",
+      "card_id": "card_000045",
+      "ip_address": "146.62.170.56",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 90500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 776,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T08:32:42.933Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000046",
+      "client_id": "client_000046",
+      "card_id": "card_000046",
+      "ip_address": "33.54.243.120",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 147000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 716,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T01:28:03.272Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000047",
+      "client_id": "client_000047",
+      "card_id": "card_000047",
+      "ip_address": "139.244.122.213",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 6000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 401,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T14:24:44.529Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000048",
+      "client_id": "client_000048",
+      "card_id": "card_000048",
+      "ip_address": "110.234.4.138",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 107500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "premium",
+      "risk_score": 329,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T12:16:30.501Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000049",
+      "client_id": "client_000049",
+      "card_id": "card_000049",
+      "ip_address": "13.139.9.186",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 42500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 504,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T16:15:49.166Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000050",
+      "client_id": "client_000050",
+      "card_id": "card_000050",
+      "ip_address": "177.248.27.94",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 61000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 526,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T19:39:09.939Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000051",
+      "client_id": "client_000051",
+      "card_id": "card_000051",
+      "ip_address": "122.105.29.67",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 45500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 454,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T03:04:02.777Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000052",
+      "client_id": "client_000052",
+      "card_id": "card_000052",
+      "ip_address": "210.26.5.83",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 36500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 592,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T06:28:25.438Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000053",
+      "client_id": "client_000053",
+      "card_id": "card_000053",
+      "ip_address": "119.253.212.130",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 33000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 788,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T09:23:32.431Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000054",
+      "client_id": "client_000054",
+      "card_id": "card_000054",
+      "ip_address": "237.218.31.8",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 19500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 603,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T05:05:06.791Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000055",
+      "client_id": "client_000055",
+      "card_id": "card_000055",
+      "ip_address": "72.67.209.190",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 24500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 460,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-04T21:42:25.848Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000056",
+      "client_id": "client_000056",
+      "card_id": "card_000056",
+      "ip_address": "149.185.9.153",
+      "os": "Web",
+      "product_type": "credit_standard",
+      "credit_limit": 45500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 777,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T15:57:35.067Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000057",
+      "client_id": "client_000057",
+      "card_id": "card_000057",
+      "ip_address": "29.81.160.218",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 10000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 470,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T23:47:09.290Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000058",
+      "client_id": "client_000058",
+      "card_id": "card_000058",
+      "ip_address": "197.26.8.214",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 8000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 680,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T23:11:11.071Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000059",
+      "client_id": "client_000059",
+      "card_id": "card_000059",
+      "ip_address": "55.54.222.62",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 31000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "premium",
+      "risk_score": 837,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T10:08:05.980Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000060",
+      "client_id": "client_000060",
+      "card_id": "card_000060",
+      "ip_address": "146.193.216.4",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 26500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 744,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T21:39:22.645Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000061",
+      "client_id": "client_000061",
+      "card_id": "card_000061",
+      "ip_address": "213.29.13.253",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 10000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 559,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-08T12:58:15.547Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000062",
+      "client_id": "client_000062",
+      "card_id": "card_000062",
+      "ip_address": "110.116.225.162",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 11000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 407,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T06:42:15.623Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000063",
+      "client_id": "client_000063",
+      "card_id": "card_000063",
+      "ip_address": "80.52.75.18",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 43000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "premium",
+      "risk_score": 551,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T09:29:48.141Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000064",
+      "client_id": "client_000064",
+      "card_id": "card_000064",
+      "ip_address": "184.58.6.173",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 39500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 428,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T10:22:33.964Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000065",
+      "client_id": "client_000065",
+      "card_id": "card_000065",
+      "ip_address": "55.77.106.138",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 27500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 635,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-12T21:46:55.740Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000066",
+      "client_id": "client_000066",
+      "card_id": "card_000066",
+      "ip_address": "241.70.243.129",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 107000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 451,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T15:58:53.381Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000067",
+      "client_id": "client_000067",
+      "card_id": "card_000067",
+      "ip_address": "89.87.7.54",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 38500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 880,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T03:33:14.168Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000068",
+      "client_id": "client_000068",
+      "card_id": "card_000068",
+      "ip_address": "32.18.179.26",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 4000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 858,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-14T04:10:20.152Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000069",
+      "client_id": "client_000069",
+      "card_id": "card_000069",
+      "ip_address": "213.85.92.216",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 543,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T10:27:46.466Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000070",
+      "client_id": "client_000070",
+      "card_id": "card_000070",
+      "ip_address": "235.8.12.80",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 112500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 746,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T04:11:54.658Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000071",
+      "client_id": "client_000071",
+      "card_id": "card_000071",
+      "ip_address": "66.211.204.212",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 93000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 356,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T00:32:37.021Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000072",
+      "client_id": "client_000072",
+      "card_id": "card_000072",
+      "ip_address": "222.78.117.111",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 17000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 505,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T14:57:11.478Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000073",
+      "client_id": "client_000073",
+      "card_id": "card_000073",
+      "ip_address": "210.109.234.95",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 7500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 587,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T12:32:25.926Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000074",
+      "client_id": "client_000074",
+      "card_id": "card_000074",
+      "ip_address": "190.97.73.64",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 8000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 783,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T16:09:03.124Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000075",
+      "client_id": "client_000075",
+      "card_id": "card_000075",
+      "ip_address": "57.171.255.204",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 270,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-10T02:16:11.676Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000076",
+      "client_id": "client_000076",
+      "card_id": "card_000076",
+      "ip_address": "202.48.138.120",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 5500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 649,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T07:46:36.127Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000077",
+      "client_id": "client_000077",
+      "card_id": "card_000077",
+      "ip_address": "30.132.20.21",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 28000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 887,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T04:47:38.539Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000078",
+      "client_id": "client_000078",
+      "card_id": "card_000078",
+      "ip_address": "245.135.72.54",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 36000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 536,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T03:38:12.968Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000079",
+      "client_id": "client_000079",
+      "card_id": "card_000079",
+      "ip_address": "124.121.45.154",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 403,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T12:21:47.985Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000080",
+      "client_id": "client_000080",
+      "card_id": "card_000080",
+      "ip_address": "187.247.7.155",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 13500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 543,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T22:48:56.964Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000081",
+      "client_id": "client_000081",
+      "card_id": "card_000081",
+      "ip_address": "145.6.244.81",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 32000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 603,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T17:54:08.914Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000082",
+      "client_id": "client_000082",
+      "card_id": "card_000082",
+      "ip_address": "116.217.24.50",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 352,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T00:10:28.684Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000083",
+      "client_id": "client_000083",
+      "card_id": "card_000083",
+      "ip_address": "56.214.202.178",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 92500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 586,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-12T10:23:45.807Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000084",
+      "client_id": "client_000084",
+      "card_id": "card_000084",
+      "ip_address": "103.250.56.133",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 864,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T21:26:58.679Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000085",
+      "client_id": "client_000085",
+      "card_id": "card_000085",
+      "ip_address": "110.225.180.196",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 50000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 564,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T01:59:52.774Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000086",
+      "client_id": "client_000086",
+      "card_id": "card_000086",
+      "ip_address": "127.154.227.233",
+      "os": "Web",
+      "product_type": "credit_premium",
+      "credit_limit": 91000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 296,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T19:22:39.024Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000087",
+      "client_id": "client_000087",
+      "card_id": "card_000087",
+      "ip_address": "43.79.14.222",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 452,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T00:59:43.241Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000088",
+      "client_id": "client_000088",
+      "card_id": "card_000088",
+      "ip_address": "197.183.12.129",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 4000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 711,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T20:45:23.179Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000089",
+      "client_id": "client_000089",
+      "card_id": "card_000089",
+      "ip_address": "16.19.53.97",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 566,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T04:16:37.632Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000090",
+      "client_id": "client_000090",
+      "card_id": "card_000090",
+      "ip_address": "209.45.64.248",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 14000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 655,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T10:22:03.940Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000091",
+      "client_id": "client_000091",
+      "card_id": "card_000091",
+      "ip_address": "90.230.141.200",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 84000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 390,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T12:56:26.897Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000092",
+      "client_id": "client_000092",
+      "card_id": "card_000092",
+      "ip_address": "178.104.184.236",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 4500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 871,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T22:59:54.125Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000093",
+      "client_id": "client_000093",
+      "card_id": "card_000093",
+      "ip_address": "97.193.84.15",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 33500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 841,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T23:46:27.870Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000094",
+      "client_id": "client_000094",
+      "card_id": "card_000094",
+      "ip_address": "46.108.197.172",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 43500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 735,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T11:40:18.132Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000095",
+      "client_id": "client_000095",
+      "card_id": "card_000095",
+      "ip_address": "81.237.40.39",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 19000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 817,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T11:45:25.993Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000096",
+      "client_id": "client_000096",
+      "card_id": "card_000096",
+      "ip_address": "128.201.126.171",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 26500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "premium",
+      "risk_score": 454,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T01:08:46.898Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000097",
+      "client_id": "client_000097",
+      "card_id": "card_000097",
+      "ip_address": "169.226.132.200",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 9000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 447,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T05:51:35.103Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000098",
+      "client_id": "client_000098",
+      "card_id": "card_000098",
+      "ip_address": "186.40.36.30",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 40500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 833,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T17:36:31.055Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000099",
+      "client_id": "client_000099",
+      "card_id": "card_000099",
+      "ip_address": "70.98.118.221",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 139000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 334,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T00:27:42.374Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000100",
+      "client_id": "client_000100",
+      "card_id": "card_000100",
+      "ip_address": "216.158.190.242",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 345,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T03:13:40.163Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000101",
+      "client_id": "client_000101",
+      "card_id": "card_000101",
+      "ip_address": "163.238.108.8",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 120500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 630,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T20:49:10.062Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000102",
+      "client_id": "client_000102",
+      "card_id": "card_000102",
+      "ip_address": "16.145.35.181",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 9500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 498,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T19:07:52.595Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000103",
+      "client_id": "client_000103",
+      "card_id": "card_000103",
+      "ip_address": "170.68.106.56",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 8000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 847,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T12:27:28.951Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000104",
+      "client_id": "client_000104",
+      "card_id": "card_000104",
+      "ip_address": "127.124.107.112",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 34000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 865,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T05:04:23.012Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000105",
+      "client_id": "client_000105",
+      "card_id": "card_000105",
+      "ip_address": "220.50.246.32",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 49000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 391,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T10:01:54.851Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000106",
+      "client_id": "client_000106",
+      "card_id": "card_000106",
+      "ip_address": "233.152.227.218",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 36500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 578,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T22:05:20.921Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000107",
+      "client_id": "client_000107",
+      "card_id": "card_000107",
+      "ip_address": "195.6.15.173",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 11000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 321,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T11:30:21.383Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000108",
+      "client_id": "client_000108",
+      "card_id": "card_000108",
+      "ip_address": "109.92.188.135",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 26000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 884,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T19:43:16.852Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000109",
+      "client_id": "client_000109",
+      "card_id": "card_000109",
+      "ip_address": "239.199.160.109",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 49000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 804,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T19:11:52.723Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000110",
+      "client_id": "client_000110",
+      "card_id": "card_000110",
+      "ip_address": "190.149.188.139",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 12500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 525,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T15:06:19.240Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000111",
+      "client_id": "client_000111",
+      "card_id": "card_000111",
+      "ip_address": "82.203.209.66",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 10000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 624,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T11:03:26.717Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000112",
+      "client_id": "client_000112",
+      "card_id": "card_000112",
+      "ip_address": "71.137.202.51",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 32000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 339,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T23:59:05.019Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000113",
+      "client_id": "client_000113",
+      "card_id": "card_000113",
+      "ip_address": "145.193.114.232",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 137500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 492,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T20:09:19.428Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000114",
+      "client_id": "client_000114",
+      "card_id": "card_000114",
+      "ip_address": "118.198.104.226",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 6000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 757,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T16:49:09.394Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000115",
+      "client_id": "client_000115",
+      "card_id": "card_000115",
+      "ip_address": "98.47.87.217",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 9500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 279,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T11:07:52.461Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000116",
+      "client_id": "client_000116",
+      "card_id": "card_000116",
+      "ip_address": "170.241.5.112",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 63500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 661,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T11:01:50.032Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000117",
+      "client_id": "client_000117",
+      "card_id": "card_000117",
+      "ip_address": "234.230.11.121",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 7000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 423,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-13T03:54:13.280Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000118",
+      "client_id": "client_000118",
+      "card_id": "card_000118",
+      "ip_address": "157.211.4.24",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 47000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 742,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T19:45:00.287Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000119",
+      "client_id": "client_000119",
+      "card_id": "card_000119",
+      "ip_address": "134.181.219.252",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 140500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 756,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T02:14:53.724Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000120",
+      "client_id": "client_000120",
+      "card_id": "card_000120",
+      "ip_address": "113.206.26.19",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 13500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 733,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T16:38:13.150Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000121",
+      "client_id": "client_000121",
+      "card_id": "card_000121",
+      "ip_address": "72.0.72.87",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "premium",
+      "risk_score": 880,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T06:06:45.687Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000122",
+      "client_id": "client_000122",
+      "card_id": "card_000122",
+      "ip_address": "42.40.132.156",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 15500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 820,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T11:46:47.064Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000123",
+      "client_id": "client_000123",
+      "card_id": "card_000123",
+      "ip_address": "111.65.248.25",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 780,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T10:50:35.094Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000124",
+      "client_id": "client_000124",
+      "card_id": "card_000124",
+      "ip_address": "148.172.102.85",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 475,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T04:23:35.714Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000125",
+      "client_id": "client_000125",
+      "card_id": "card_000125",
+      "ip_address": "77.48.76.148",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 7500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 270,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T21:14:45.519Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000126",
+      "client_id": "client_000126",
+      "card_id": "card_000126",
+      "ip_address": "33.74.108.229",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 476,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T16:40:00.186Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000127",
+      "client_id": "client_000127",
+      "card_id": "card_000127",
+      "ip_address": "48.169.237.212",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 89000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 328,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T23:28:44.317Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000128",
+      "client_id": "client_000128",
+      "card_id": "card_000128",
+      "ip_address": "247.21.44.155",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 42500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 639,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T20:18:11.244Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000129",
+      "client_id": "client_000129",
+      "card_id": "card_000129",
+      "ip_address": "164.204.189.188",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 34500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 259,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T05:49:49.035Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000130",
+      "client_id": "client_000130",
+      "card_id": "card_000130",
+      "ip_address": "108.78.80.94",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 37500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 260,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T06:19:05.802Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000131",
+      "client_id": "client_000131",
+      "card_id": "card_000131",
+      "ip_address": "89.225.8.174",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 14000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "premium",
+      "risk_score": 293,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T03:09:42.596Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000132",
+      "client_id": "client_000132",
+      "card_id": "card_000132",
+      "ip_address": "245.196.213.152",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 28000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 882,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T16:49:04.541Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000133",
+      "client_id": "client_000133",
+      "card_id": "card_000133",
+      "ip_address": "54.214.76.4",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 91500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 410,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T18:04:59.125Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000134",
+      "client_id": "client_000134",
+      "card_id": "card_000134",
+      "ip_address": "190.1.145.132",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 417,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T00:16:05.556Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000135",
+      "client_id": "client_000135",
+      "card_id": "card_000135",
+      "ip_address": "143.33.45.226",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 19500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 889,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T22:42:15.786Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000136",
+      "client_id": "client_000136",
+      "card_id": "card_000136",
+      "ip_address": "79.4.58.134",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 7000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 686,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T23:24:27.643Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000137",
+      "client_id": "client_000137",
+      "card_id": "card_000137",
+      "ip_address": "193.51.90.113",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 5000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 463,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T23:08:51.141Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000138",
+      "client_id": "client_000138",
+      "card_id": "card_000138",
+      "ip_address": "141.235.191.162",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 13500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 789,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T04:51:42.603Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000139",
+      "client_id": "client_000139",
+      "card_id": "card_000139",
+      "ip_address": "82.42.155.180",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 9500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 821,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-13T17:39:14.473Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000140",
+      "client_id": "client_000140",
+      "card_id": "card_000140",
+      "ip_address": "37.131.125.134",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 46500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 747,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-04T01:44:44.459Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000141",
+      "client_id": "client_000141",
+      "card_id": "card_000141",
+      "ip_address": "62.169.255.239",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 19500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 650,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-12T19:26:19.801Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000142",
+      "client_id": "client_000142",
+      "card_id": "card_000142",
+      "ip_address": "71.138.15.126",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 458,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T03:13:28.647Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000143",
+      "client_id": "client_000143",
+      "card_id": "card_000143",
+      "ip_address": "53.69.129.161",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 525,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T20:49:42.815Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000144",
+      "client_id": "client_000144",
+      "card_id": "card_000144",
+      "ip_address": "34.230.162.62",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 813,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T04:26:49.850Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000145",
+      "client_id": "client_000145",
+      "card_id": "card_000145",
+      "ip_address": "79.58.160.189",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 87000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 298,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-10T22:32:21.450Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000146",
+      "client_id": "client_000146",
+      "card_id": "card_000146",
+      "ip_address": "72.235.187.33",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 43000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 677,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T22:33:59.895Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000147",
+      "client_id": "client_000147",
+      "card_id": "card_000147",
+      "ip_address": "93.85.77.166",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 7500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 845,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T14:30:56.841Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000148",
+      "client_id": "client_000148",
+      "card_id": "card_000148",
+      "ip_address": "171.191.64.17",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 21500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 660,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T10:53:51.926Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000149",
+      "client_id": "client_000149",
+      "card_id": "card_000149",
+      "ip_address": "151.174.16.49",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 37500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 617,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T18:27:46.661Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000150",
+      "client_id": "client_000150",
+      "card_id": "card_000150",
+      "ip_address": "242.129.59.169",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 13000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 863,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-12T23:17:40.219Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000151",
+      "client_id": "client_000151",
+      "card_id": "card_000151",
+      "ip_address": "34.30.151.73",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 129000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 644,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T07:41:33.520Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000152",
+      "client_id": "client_000152",
+      "card_id": "card_000152",
+      "ip_address": "162.246.79.12",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 4000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 707,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T21:52:23.636Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000153",
+      "client_id": "client_000153",
+      "card_id": "card_000153",
+      "ip_address": "128.166.3.119",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 25000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 387,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T17:27:51.751Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000154",
+      "client_id": "client_000154",
+      "card_id": "card_000154",
+      "ip_address": "26.199.199.248",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 102500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 271,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T19:44:13.406Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000155",
+      "client_id": "client_000155",
+      "card_id": "card_000155",
+      "ip_address": "22.160.190.73",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 39500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 543,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T07:56:11.532Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000156",
+      "client_id": "client_000156",
+      "card_id": "card_000156",
+      "ip_address": "52.209.97.84",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 40000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 264,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T01:33:20.149Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000157",
+      "client_id": "client_000157",
+      "card_id": "card_000157",
+      "ip_address": "56.67.106.162",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 32000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 468,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T15:45:03.254Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000158",
+      "client_id": "client_000158",
+      "card_id": "card_000158",
+      "ip_address": "237.254.81.76",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 33000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 474,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T12:22:39.576Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000159",
+      "client_id": "client_000159",
+      "card_id": "card_000159",
+      "ip_address": "226.251.194.84",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 34500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 679,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T03:26:54.523Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000160",
+      "client_id": "client_000160",
+      "card_id": "card_000160",
+      "ip_address": "89.18.77.15",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 49500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 683,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T07:36:29.001Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000161",
+      "client_id": "client_000161",
+      "card_id": "card_000161",
+      "ip_address": "87.86.164.19",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 33500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 773,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T22:25:21.208Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000162",
+      "client_id": "client_000162",
+      "card_id": "card_000162",
+      "ip_address": "107.83.17.202",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 49000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 730,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T01:08:45.637Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000163",
+      "client_id": "client_000163",
+      "card_id": "card_000163",
+      "ip_address": "175.27.49.89",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 12000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 775,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T09:37:48.415Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000164",
+      "client_id": "client_000164",
+      "card_id": "card_000164",
+      "ip_address": "180.135.136.6",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 48000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 810,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T22:06:37.963Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000165",
+      "client_id": "client_000165",
+      "card_id": "card_000165",
+      "ip_address": "206.155.217.96",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 12000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 868,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-27T04:50:09.202Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000166",
+      "client_id": "client_000166",
+      "card_id": "card_000166",
+      "ip_address": "47.95.72.63",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 10000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 296,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T07:56:34.360Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000167",
+      "client_id": "client_000167",
+      "card_id": "card_000167",
+      "ip_address": "232.172.158.220",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 29000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 665,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-08T06:22:44.296Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000168",
+      "client_id": "client_000168",
+      "card_id": "card_000168",
+      "ip_address": "56.10.212.219",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 271,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T19:42:13.086Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000169",
+      "client_id": "client_000169",
+      "card_id": "card_000169",
+      "ip_address": "118.161.235.172",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 45500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 440,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T20:45:38.399Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000170",
+      "client_id": "client_000170",
+      "card_id": "card_000170",
+      "ip_address": "179.61.39.167",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 43500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 409,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T20:06:57.847Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000171",
+      "client_id": "client_000171",
+      "card_id": "card_000171",
+      "ip_address": "153.49.148.49",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 16500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 729,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T04:44:26.966Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000172",
+      "client_id": "client_000172",
+      "card_id": "card_000172",
+      "ip_address": "239.139.57.17",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 8500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 344,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T14:08:57.560Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000173",
+      "client_id": "client_000173",
+      "card_id": "card_000173",
+      "ip_address": "144.64.232.32",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 132500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 787,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T14:37:40.407Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000174",
+      "client_id": "client_000174",
+      "card_id": "card_000174",
+      "ip_address": "214.240.24.250",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 7000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 710,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T17:54:42.873Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000175",
+      "client_id": "client_000175",
+      "card_id": "card_000175",
+      "ip_address": "131.198.50.22",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 80000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 416,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T00:22:29.292Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000176",
+      "client_id": "client_000176",
+      "card_id": "card_000176",
+      "ip_address": "50.134.97.39",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 146000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 740,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T20:06:23.758Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000177",
+      "client_id": "client_000177",
+      "card_id": "card_000177",
+      "ip_address": "13.68.80.144",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 14500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 395,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T03:34:44.715Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000178",
+      "client_id": "client_000178",
+      "card_id": "card_000178",
+      "ip_address": "69.41.29.178",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 460,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-10T13:49:50.773Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000179",
+      "client_id": "client_000179",
+      "card_id": "card_000179",
+      "ip_address": "239.186.46.177",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 43500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 614,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T22:49:36.213Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000180",
+      "client_id": "client_000180",
+      "card_id": "card_000180",
+      "ip_address": "79.196.251.208",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 21000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 785,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T04:19:12.147Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000181",
+      "client_id": "client_000181",
+      "card_id": "card_000181",
+      "ip_address": "109.162.207.36",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 47500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 857,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T17:54:13.235Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000182",
+      "client_id": "client_000182",
+      "card_id": "card_000182",
+      "ip_address": "192.137.195.177",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 11500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 822,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T01:29:18.167Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000183",
+      "client_id": "client_000183",
+      "card_id": "card_000183",
+      "ip_address": "45.66.106.14",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 501,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T13:10:01.609Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000184",
+      "client_id": "client_000184",
+      "card_id": "card_000184",
+      "ip_address": "181.134.173.200",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 39500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 825,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T08:14:54.984Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000185",
+      "client_id": "client_000185",
+      "card_id": "card_000185",
+      "ip_address": "47.166.148.26",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 11000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 332,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-14T08:33:49.483Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000186",
+      "client_id": "client_000186",
+      "card_id": "card_000186",
+      "ip_address": "186.104.188.149",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 68500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 474,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T09:10:08.117Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000187",
+      "client_id": "client_000187",
+      "card_id": "card_000187",
+      "ip_address": "103.126.241.5",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 12000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 391,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T02:31:58.164Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000188",
+      "client_id": "client_000188",
+      "card_id": "card_000188",
+      "ip_address": "40.118.94.254",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 29500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 479,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T23:33:18.271Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000189",
+      "client_id": "client_000189",
+      "card_id": "card_000189",
+      "ip_address": "249.23.186.210",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 109500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "premium",
+      "risk_score": 721,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T05:33:17.674Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000190",
+      "client_id": "client_000190",
+      "card_id": "card_000190",
+      "ip_address": "150.127.223.22",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 45000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 729,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T16:31:27.987Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000191",
+      "client_id": "client_000191",
+      "card_id": "card_000191",
+      "ip_address": "131.206.248.119",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 15500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 572,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T09:43:37.417Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000192",
+      "client_id": "client_000192",
+      "card_id": "card_000192",
+      "ip_address": "54.222.213.48",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 653,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T06:17:29.886Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000193",
+      "client_id": "client_000193",
+      "card_id": "card_000193",
+      "ip_address": "224.143.51.226",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 37500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 738,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T14:11:35.108Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000194",
+      "client_id": "client_000194",
+      "card_id": "card_000194",
+      "ip_address": "111.252.113.231",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 9500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 818,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T21:43:09.069Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000195",
+      "client_id": "client_000195",
+      "card_id": "card_000195",
+      "ip_address": "211.46.33.253",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 8500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 405,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T07:09:10.792Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000196",
+      "client_id": "client_000196",
+      "card_id": "card_000196",
+      "ip_address": "65.133.90.138",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 46500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 690,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T14:36:21.685Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000197",
+      "client_id": "client_000197",
+      "card_id": "card_000197",
+      "ip_address": "136.127.182.174",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 8000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 566,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T22:50:51.425Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000198",
+      "client_id": "client_000198",
+      "card_id": "card_000198",
+      "ip_address": "112.32.129.213",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 37000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "premium",
+      "risk_score": 386,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-12T16:18:39.576Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000199",
+      "client_id": "client_000199",
+      "card_id": "card_000199",
+      "ip_address": "235.7.24.120",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 46000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 834,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T09:22:55.416Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000200",
+      "client_id": "client_000200",
+      "card_id": "card_000200",
+      "ip_address": "222.232.120.92",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 48000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 469,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T11:01:35.129Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000201",
+      "client_id": "client_000201",
+      "card_id": "card_000201",
+      "ip_address": "228.36.12.210",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 39000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 694,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T12:18:09.262Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000202",
+      "client_id": "client_000202",
+      "card_id": "card_000202",
+      "ip_address": "230.201.202.61",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 551,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T00:16:39.502Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000203",
+      "client_id": "client_000203",
+      "card_id": "card_000203",
+      "ip_address": "39.112.130.221",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 11500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 572,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T15:26:32.649Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000204",
+      "client_id": "client_000204",
+      "card_id": "card_000204",
+      "ip_address": "214.143.245.184",
+      "os": "Web",
+      "product_type": "credit_premium",
+      "credit_limit": 69500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 732,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T18:24:58.099Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000205",
+      "client_id": "client_000205",
+      "card_id": "card_000205",
+      "ip_address": "140.122.146.120",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 18000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 423,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T15:36:04.124Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000206",
+      "client_id": "client_000206",
+      "card_id": "card_000206",
+      "ip_address": "208.212.40.120",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 93500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 732,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-13T13:13:59.078Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000207",
+      "client_id": "client_000207",
+      "card_id": "card_000207",
+      "ip_address": "245.209.62.121",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 20500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 633,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T09:56:15.530Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000208",
+      "client_id": "client_000208",
+      "card_id": "card_000208",
+      "ip_address": "180.62.29.175",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 18500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 869,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T04:38:22.859Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000209",
+      "client_id": "client_000209",
+      "card_id": "card_000209",
+      "ip_address": "154.168.209.41",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 32000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 255,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T22:25:19.201Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000210",
+      "client_id": "client_000210",
+      "card_id": "card_000210",
+      "ip_address": "45.170.62.69",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 34500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 653,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T21:36:08.433Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000211",
+      "client_id": "client_000211",
+      "card_id": "card_000211",
+      "ip_address": "161.98.243.111",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 133500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 763,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T23:42:43.054Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000212",
+      "client_id": "client_000212",
+      "card_id": "card_000212",
+      "ip_address": "205.48.112.65",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 24500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 342,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T21:43:57.456Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000213",
+      "client_id": "client_000213",
+      "card_id": "card_000213",
+      "ip_address": "145.84.114.161",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 12500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 280,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T16:51:04.213Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000214",
+      "client_id": "client_000214",
+      "card_id": "card_000214",
+      "ip_address": "182.16.198.89",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 852,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T11:38:48.618Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000215",
+      "client_id": "client_000215",
+      "card_id": "card_000215",
+      "ip_address": "223.209.104.116",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 29500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 341,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T07:49:38.610Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000216",
+      "client_id": "client_000216",
+      "card_id": "card_000216",
+      "ip_address": "116.173.161.232",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 134500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 597,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T23:28:47.042Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000217",
+      "client_id": "client_000217",
+      "card_id": "card_000217",
+      "ip_address": "184.153.69.130",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 41000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 648,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T23:07:46.116Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000218",
+      "client_id": "client_000218",
+      "card_id": "card_000218",
+      "ip_address": "86.204.60.80",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 17000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "premium",
+      "risk_score": 723,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T21:02:33.792Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000219",
+      "client_id": "client_000219",
+      "card_id": "card_000219",
+      "ip_address": "68.208.223.66",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 5500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 294,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T17:28:25.153Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000220",
+      "client_id": "client_000220",
+      "card_id": "card_000220",
+      "ip_address": "144.192.162.150",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 8000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 693,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T15:24:42.799Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000221",
+      "client_id": "client_000221",
+      "card_id": "card_000221",
+      "ip_address": "167.189.189.198",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 12000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 444,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T14:18:13.043Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000222",
+      "client_id": "client_000222",
+      "card_id": "card_000222",
+      "ip_address": "184.255.62.202",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 36000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 469,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-14T04:14:20.804Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000223",
+      "client_id": "client_000223",
+      "card_id": "card_000223",
+      "ip_address": "111.130.197.12",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 10500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 521,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T16:04:38.287Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000224",
+      "client_id": "client_000224",
+      "card_id": "card_000224",
+      "ip_address": "156.35.66.160",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 94000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 778,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T16:28:56.447Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000225",
+      "client_id": "client_000225",
+      "card_id": "card_000225",
+      "ip_address": "122.113.231.175",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 37500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 406,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T03:16:35.867Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000226",
+      "client_id": "client_000226",
+      "card_id": "card_000226",
+      "ip_address": "234.7.79.67",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 120000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 806,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T16:17:00.166Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000227",
+      "client_id": "client_000227",
+      "card_id": "card_000227",
+      "ip_address": "152.177.53.110",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 14000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 660,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T23:14:20.640Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000228",
+      "client_id": "client_000228",
+      "card_id": "card_000228",
+      "ip_address": "187.22.187.2",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 30000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 523,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T07:17:22.605Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000229",
+      "client_id": "client_000229",
+      "card_id": "card_000229",
+      "ip_address": "188.109.108.93",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 7000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 411,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T23:02:01.127Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000230",
+      "client_id": "client_000230",
+      "card_id": "card_000230",
+      "ip_address": "65.25.5.174",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 24500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 830,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T17:01:51.825Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000231",
+      "client_id": "client_000231",
+      "card_id": "card_000231",
+      "ip_address": "157.176.75.216",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 358,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T12:59:24.100Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000232",
+      "client_id": "client_000232",
+      "card_id": "card_000232",
+      "ip_address": "47.232.175.149",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 49500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 272,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T21:16:47.864Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000233",
+      "client_id": "client_000233",
+      "card_id": "card_000233",
+      "ip_address": "180.213.242.50",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 18500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 423,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T11:03:22.502Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000234",
+      "client_id": "client_000234",
+      "card_id": "card_000234",
+      "ip_address": "159.169.223.120",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 129000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 533,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T02:06:44.277Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000235",
+      "client_id": "client_000235",
+      "card_id": "card_000235",
+      "ip_address": "24.18.52.151",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 21000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 531,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T18:50:59.236Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000236",
+      "client_id": "client_000236",
+      "card_id": "card_000236",
+      "ip_address": "46.128.186.178",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 268,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-08T09:22:02.115Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000237",
+      "client_id": "client_000237",
+      "card_id": "card_000237",
+      "ip_address": "54.34.1.38",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 20000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 736,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T13:12:45.061Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000238",
+      "client_id": "client_000238",
+      "card_id": "card_000238",
+      "ip_address": "248.88.134.185",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 4000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 278,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T00:48:14.496Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000239",
+      "client_id": "client_000239",
+      "card_id": "card_000239",
+      "ip_address": "174.93.235.215",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 10500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 251,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-14T06:32:34.970Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000240",
+      "client_id": "client_000240",
+      "card_id": "card_000240",
+      "ip_address": "167.39.65.60",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 11500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 481,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T08:13:38.827Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000241",
+      "client_id": "client_000241",
+      "card_id": "card_000241",
+      "ip_address": "112.13.51.209",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 22000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 580,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T19:31:28.194Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000242",
+      "client_id": "client_000242",
+      "card_id": "card_000242",
+      "ip_address": "206.82.12.168",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 6000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 337,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-04T16:47:35.412Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000243",
+      "client_id": "client_000243",
+      "card_id": "card_000243",
+      "ip_address": "99.103.79.77",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 438,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T08:07:23.103Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000244",
+      "client_id": "client_000244",
+      "card_id": "card_000244",
+      "ip_address": "132.69.169.114",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "premium",
+      "risk_score": 804,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T06:37:09.207Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000245",
+      "client_id": "client_000245",
+      "card_id": "card_000245",
+      "ip_address": "57.139.153.244",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 35000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 266,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T11:16:36.454Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000246",
+      "client_id": "client_000246",
+      "card_id": "card_000246",
+      "ip_address": "169.173.7.178",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 10000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 727,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T03:23:41.095Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000247",
+      "client_id": "client_000247",
+      "card_id": "card_000247",
+      "ip_address": "112.116.162.187",
+      "os": "Web",
+      "product_type": "credit_standard",
+      "credit_limit": 43500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "premium",
+      "risk_score": 789,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T12:07:22.343Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000248",
+      "client_id": "client_000248",
+      "card_id": "card_000248",
+      "ip_address": "27.153.25.147",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 28500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 259,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-04T07:27:43.403Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000249",
+      "client_id": "client_000249",
+      "card_id": "card_000249",
+      "ip_address": "225.10.199.111",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 7500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "premium",
+      "risk_score": 840,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-01T16:53:19.112Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000250",
+      "client_id": "client_000250",
+      "card_id": "card_000250",
+      "ip_address": "19.103.30.163",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 10500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 742,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T02:41:16.314Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000251",
+      "client_id": "client_000251",
+      "card_id": "card_000251",
+      "ip_address": "185.13.124.35",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 142000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 639,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T13:31:04.751Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000252",
+      "client_id": "client_000252",
+      "card_id": "card_000252",
+      "ip_address": "57.32.198.173",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 17000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 642,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T07:10:32.889Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000253",
+      "client_id": "client_000253",
+      "card_id": "card_000253",
+      "ip_address": "159.154.20.158",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 9500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 672,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T10:20:28.871Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000254",
+      "client_id": "client_000254",
+      "card_id": "card_000254",
+      "ip_address": "138.12.142.157",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 46500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 680,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T07:58:39.245Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000255",
+      "client_id": "client_000255",
+      "card_id": "card_000255",
+      "ip_address": "219.248.108.237",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 12500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "premium",
+      "risk_score": 827,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T12:23:57.450Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000256",
+      "client_id": "client_000256",
+      "card_id": "card_000256",
+      "ip_address": "202.184.112.149",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 26000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 267,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-08T23:37:29.407Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000257",
+      "client_id": "client_000257",
+      "card_id": "card_000257",
+      "ip_address": "119.237.65.235",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 80000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 347,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T11:18:41.623Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000258",
+      "client_id": "client_000258",
+      "card_id": "card_000258",
+      "ip_address": "211.97.3.51",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 9000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 644,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T03:03:17.208Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000259",
+      "client_id": "client_000259",
+      "card_id": "card_000259",
+      "ip_address": "205.93.155.148",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 7500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "premium",
+      "risk_score": 453,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-12T16:06:01.996Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000260",
+      "client_id": "client_000260",
+      "card_id": "card_000260",
+      "ip_address": "92.111.53.35",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 292,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-12T18:35:09.575Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000261",
+      "client_id": "client_000261",
+      "card_id": "card_000261",
+      "ip_address": "237.199.122.198",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 11000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 668,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T14:18:45.265Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000262",
+      "client_id": "client_000262",
+      "card_id": "card_000262",
+      "ip_address": "79.199.210.135",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 651,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T15:19:58.019Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000263",
+      "client_id": "client_000263",
+      "card_id": "card_000263",
+      "ip_address": "118.71.157.235",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 776,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T07:56:25.113Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000264",
+      "client_id": "client_000264",
+      "card_id": "card_000264",
+      "ip_address": "105.138.221.25",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 656,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T20:07:34.564Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000265",
+      "client_id": "client_000265",
+      "card_id": "card_000265",
+      "ip_address": "200.35.172.252",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 10000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 478,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T06:14:25.498Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000266",
+      "client_id": "client_000266",
+      "card_id": "card_000266",
+      "ip_address": "188.195.66.209",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 147500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 346,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T09:45:42.066Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000267",
+      "client_id": "client_000267",
+      "card_id": "card_000267",
+      "ip_address": "148.169.93.169",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 11000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 517,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T02:02:42.710Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000268",
+      "client_id": "client_000268",
+      "card_id": "card_000268",
+      "ip_address": "82.219.207.4",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 10000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 322,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T23:24:28.445Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000269",
+      "client_id": "client_000269",
+      "card_id": "card_000269",
+      "ip_address": "235.218.22.26",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 610,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-14T07:25:33.294Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000270",
+      "client_id": "client_000270",
+      "card_id": "card_000270",
+      "ip_address": "35.42.96.215",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 18000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 858,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T17:38:07.327Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000271",
+      "client_id": "client_000271",
+      "card_id": "card_000271",
+      "ip_address": "193.106.118.254",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 614,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T20:29:17.852Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000272",
+      "client_id": "client_000272",
+      "card_id": "card_000272",
+      "ip_address": "135.43.166.101",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 33000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 840,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T06:29:39.152Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000273",
+      "client_id": "client_000273",
+      "card_id": "card_000273",
+      "ip_address": "162.103.59.211",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 686,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T17:45:44.705Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000274",
+      "client_id": "client_000274",
+      "card_id": "card_000274",
+      "ip_address": "106.27.236.85",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 37500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 431,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-27T11:12:04.032Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000275",
+      "client_id": "client_000275",
+      "card_id": "card_000275",
+      "ip_address": "133.59.207.234",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 46000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 446,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-10T10:33:37.992Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000276",
+      "client_id": "client_000276",
+      "card_id": "card_000276",
+      "ip_address": "73.87.255.102",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 5500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 788,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T00:01:44.506Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000277",
+      "client_id": "client_000277",
+      "card_id": "card_000277",
+      "ip_address": "28.29.60.83",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 11000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 277,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-27T23:13:49.149Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000278",
+      "client_id": "client_000278",
+      "card_id": "card_000278",
+      "ip_address": "224.38.5.71",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 10500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 496,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T05:48:55.688Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000279",
+      "client_id": "client_000279",
+      "card_id": "card_000279",
+      "ip_address": "23.93.18.57",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 12500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 817,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T11:23:59.625Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000280",
+      "client_id": "client_000280",
+      "card_id": "card_000280",
+      "ip_address": "237.56.115.51",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 7000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 470,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T02:43:52.865Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000281",
+      "client_id": "client_000281",
+      "card_id": "card_000281",
+      "ip_address": "113.99.25.105",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 10500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 723,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T22:55:01.141Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000282",
+      "client_id": "client_000282",
+      "card_id": "card_000282",
+      "ip_address": "118.34.37.151",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 896,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T16:50:15.909Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000283",
+      "client_id": "client_000283",
+      "card_id": "card_000283",
+      "ip_address": "129.133.217.139",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 565,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T04:53:00.162Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000284",
+      "client_id": "client_000284",
+      "card_id": "card_000284",
+      "ip_address": "244.1.187.75",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 110000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 657,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T01:10:02.395Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000285",
+      "client_id": "client_000285",
+      "card_id": "card_000285",
+      "ip_address": "154.176.158.134",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 12500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 285,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T14:57:14.256Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000286",
+      "client_id": "client_000286",
+      "card_id": "card_000286",
+      "ip_address": "48.148.219.6",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 28500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 785,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T23:30:34.684Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000287",
+      "client_id": "client_000287",
+      "card_id": "card_000287",
+      "ip_address": "109.248.67.13",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 6000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 656,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T09:36:01.780Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000288",
+      "client_id": "client_000288",
+      "card_id": "card_000288",
+      "ip_address": "248.220.91.194",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 94500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 437,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T14:15:05.167Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000289",
+      "client_id": "client_000289",
+      "card_id": "card_000289",
+      "ip_address": "41.148.141.223",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 8000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 865,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T03:25:41.251Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000290",
+      "client_id": "client_000290",
+      "card_id": "card_000290",
+      "ip_address": "209.82.25.189",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 9000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 699,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T03:55:31.172Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000291",
+      "client_id": "client_000291",
+      "card_id": "card_000291",
+      "ip_address": "89.223.200.200",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 143500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 861,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-13T00:13:10.158Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000292",
+      "client_id": "client_000292",
+      "card_id": "card_000292",
+      "ip_address": "36.151.16.171",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 319,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T22:21:15.956Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000293",
+      "client_id": "client_000293",
+      "card_id": "card_000293",
+      "ip_address": "72.237.5.87",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 24500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 633,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T17:32:57.191Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000294",
+      "client_id": "client_000294",
+      "card_id": "card_000294",
+      "ip_address": "83.90.204.194",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 29500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 337,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-27T22:58:02.432Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000295",
+      "client_id": "client_000295",
+      "card_id": "card_000295",
+      "ip_address": "161.24.226.164",
+      "os": "Web",
+      "product_type": "credit_standard",
+      "credit_limit": 19000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 679,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T05:43:30.683Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000296",
+      "client_id": "client_000296",
+      "card_id": "card_000296",
+      "ip_address": "160.120.244.220",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 463,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T07:38:31.363Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000297",
+      "client_id": "client_000297",
+      "card_id": "card_000297",
+      "ip_address": "218.84.215.219",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 122500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 303,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T16:06:15.322Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000298",
+      "client_id": "client_000298",
+      "card_id": "card_000298",
+      "ip_address": "137.109.51.152",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 664,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T04:53:56.366Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000299",
+      "client_id": "client_000299",
+      "card_id": "card_000299",
+      "ip_address": "32.48.70.55",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 23000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 348,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T08:10:32.571Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000300",
+      "client_id": "client_000300",
+      "card_id": "card_000300",
+      "ip_address": "199.82.228.224",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 39500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "premium",
+      "risk_score": 252,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T23:26:42.071Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000301",
+      "client_id": "client_000301",
+      "card_id": "card_000301",
+      "ip_address": "225.145.193.212",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 47000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 613,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T12:45:07.299Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000302",
+      "client_id": "client_000302",
+      "card_id": "card_000302",
+      "ip_address": "139.181.121.80",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 13000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 667,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T14:22:39.848Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000303",
+      "client_id": "client_000303",
+      "card_id": "card_000303",
+      "ip_address": "148.82.216.217",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 32000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 760,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T09:30:42.883Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000304",
+      "client_id": "client_000304",
+      "card_id": "card_000304",
+      "ip_address": "48.136.99.70",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 26000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 411,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T07:29:15.005Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000305",
+      "client_id": "client_000305",
+      "card_id": "card_000305",
+      "ip_address": "112.86.171.148",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 669,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T14:01:42.070Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000306",
+      "client_id": "client_000306",
+      "card_id": "card_000306",
+      "ip_address": "13.95.199.219",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 475,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T21:02:40.909Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000307",
+      "client_id": "client_000307",
+      "card_id": "card_000307",
+      "ip_address": "196.135.237.250",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 127000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 429,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T05:04:24.513Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000308",
+      "client_id": "client_000308",
+      "card_id": "card_000308",
+      "ip_address": "198.235.39.6",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 16000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 846,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T16:52:40.952Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000309",
+      "client_id": "client_000309",
+      "card_id": "card_000309",
+      "ip_address": "147.208.98.230",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 25000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 539,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T02:31:57.982Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000310",
+      "client_id": "client_000310",
+      "card_id": "card_000310",
+      "ip_address": "247.81.93.84",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 29500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 677,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T00:50:44.552Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000311",
+      "client_id": "client_000311",
+      "card_id": "card_000311",
+      "ip_address": "31.217.216.113",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 15000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 870,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T09:27:42.424Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000312",
+      "client_id": "client_000312",
+      "card_id": "card_000312",
+      "ip_address": "209.236.166.66",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 123000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 372,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-10T13:19:59.420Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000313",
+      "client_id": "client_000313",
+      "card_id": "card_000313",
+      "ip_address": "218.173.177.130",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 47500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 280,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-12T08:36:42.912Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000314",
+      "client_id": "client_000314",
+      "card_id": "card_000314",
+      "ip_address": "93.11.46.19",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 13500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 278,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-16T17:21:50.669Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000315",
+      "client_id": "client_000315",
+      "card_id": "card_000315",
+      "ip_address": "198.198.148.33",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 84500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 553,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T01:19:57.764Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000316",
+      "client_id": "client_000316",
+      "card_id": "card_000316",
+      "ip_address": "121.245.42.140",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 49000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 673,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T04:03:40.539Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000317",
+      "client_id": "client_000317",
+      "card_id": "card_000317",
+      "ip_address": "80.196.15.197",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 29500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 700,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T03:05:08.066Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000318",
+      "client_id": "client_000318",
+      "card_id": "card_000318",
+      "ip_address": "197.177.68.239",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 12000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 351,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T18:23:24.471Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000319",
+      "client_id": "client_000319",
+      "card_id": "card_000319",
+      "ip_address": "181.79.163.102",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 305,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T03:48:50.650Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000320",
+      "client_id": "client_000320",
+      "card_id": "card_000320",
+      "ip_address": "151.113.128.79",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 7000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 292,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T03:31:56.185Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000321",
+      "client_id": "client_000321",
+      "card_id": "card_000321",
+      "ip_address": "32.80.15.235",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 31000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 552,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T17:02:53.293Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000322",
+      "client_id": "client_000322",
+      "card_id": "card_000322",
+      "ip_address": "189.33.99.43",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 41000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 748,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T21:19:36.358Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000323",
+      "client_id": "client_000323",
+      "card_id": "card_000323",
+      "ip_address": "28.105.91.150",
+      "os": "Web",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 847,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T15:53:44.453Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000324",
+      "client_id": "client_000324",
+      "card_id": "card_000324",
+      "ip_address": "133.147.214.120",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 8500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 390,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T00:26:04.493Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000325",
+      "client_id": "client_000325",
+      "card_id": "card_000325",
+      "ip_address": "104.144.191.141",
+      "os": "Web",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 881,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T01:13:36.593Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000326",
+      "client_id": "client_000326",
+      "card_id": "card_000326",
+      "ip_address": "163.127.82.157",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 131000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 520,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T12:32:33.542Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000327",
+      "client_id": "client_000327",
+      "card_id": "card_000327",
+      "ip_address": "175.193.177.205",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 44500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "premium",
+      "risk_score": 416,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T01:27:51.517Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000328",
+      "client_id": "client_000328",
+      "card_id": "card_000328",
+      "ip_address": "143.102.136.233",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 135000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 775,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T04:39:11.491Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000329",
+      "client_id": "client_000329",
+      "card_id": "card_000329",
+      "ip_address": "123.94.47.64",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 11500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 796,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T07:03:03.102Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000330",
+      "client_id": "client_000330",
+      "card_id": "card_000330",
+      "ip_address": "248.26.36.26",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 446,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-04T13:11:43.192Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000331",
+      "client_id": "client_000331",
+      "card_id": "card_000331",
+      "ip_address": "149.108.3.136",
+      "os": "Web",
+      "product_type": "credit_standard",
+      "credit_limit": 18500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 722,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T17:44:18.737Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000332",
+      "client_id": "client_000332",
+      "card_id": "card_000332",
+      "ip_address": "86.109.10.151",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 40000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 875,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T22:34:57.794Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000333",
+      "client_id": "client_000333",
+      "card_id": "card_000333",
+      "ip_address": "110.66.102.43",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 36000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 508,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T17:57:06.513Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000334",
+      "client_id": "client_000334",
+      "card_id": "card_000334",
+      "ip_address": "86.108.205.224",
+      "os": "Web",
+      "product_type": "credit_standard",
+      "credit_limit": 46500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "premium",
+      "risk_score": 421,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T10:52:58.773Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000335",
+      "client_id": "client_000335",
+      "card_id": "card_000335",
+      "ip_address": "106.26.234.9",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 49500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 618,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T05:59:47.706Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000336",
+      "client_id": "client_000336",
+      "card_id": "card_000336",
+      "ip_address": "151.239.26.209",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 12000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 702,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T13:13:28.796Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000337",
+      "client_id": "client_000337",
+      "card_id": "card_000337",
+      "ip_address": "76.129.219.202",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 860,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T07:44:22.704Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000338",
+      "client_id": "client_000338",
+      "card_id": "card_000338",
+      "ip_address": "17.97.186.101",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 9000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 280,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T16:29:09.422Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000339",
+      "client_id": "client_000339",
+      "card_id": "card_000339",
+      "ip_address": "24.11.130.252",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 50000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "premium",
+      "risk_score": 775,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T02:26:12.143Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000340",
+      "client_id": "client_000340",
+      "card_id": "card_000340",
+      "ip_address": "118.73.138.118",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 67500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 430,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T09:07:48.467Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000341",
+      "client_id": "client_000341",
+      "card_id": "card_000341",
+      "ip_address": "14.215.242.21",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 12500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 457,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T02:03:37.821Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000342",
+      "client_id": "client_000342",
+      "card_id": "card_000342",
+      "ip_address": "74.26.15.115",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 47500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 414,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-27T11:12:05.871Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000343",
+      "client_id": "client_000343",
+      "card_id": "card_000343",
+      "ip_address": "151.190.11.135",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 7000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 875,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T01:53:59.211Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000344",
+      "client_id": "client_000344",
+      "card_id": "card_000344",
+      "ip_address": "238.112.249.110",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 13500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 278,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T16:35:14.319Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000345",
+      "client_id": "client_000345",
+      "card_id": "card_000345",
+      "ip_address": "65.75.237.248",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 17500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 591,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T01:00:55.118Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000346",
+      "client_id": "client_000346",
+      "card_id": "card_000346",
+      "ip_address": "94.255.243.45",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 52000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 504,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T15:34:17.006Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000347",
+      "client_id": "client_000347",
+      "card_id": "card_000347",
+      "ip_address": "203.198.73.55",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 44500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 365,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T06:16:50.613Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000348",
+      "client_id": "client_000348",
+      "card_id": "card_000348",
+      "ip_address": "195.56.23.14",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 13000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 350,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-20T11:01:14.765Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000349",
+      "client_id": "client_000349",
+      "card_id": "card_000349",
+      "ip_address": "113.88.141.165",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 133500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 879,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T13:16:15.545Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000350",
+      "client_id": "client_000350",
+      "card_id": "card_000350",
+      "ip_address": "225.103.65.107",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 11000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 362,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-06T14:51:59.775Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000351",
+      "client_id": "client_000351",
+      "card_id": "card_000351",
+      "ip_address": "97.208.21.254",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 149000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 659,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T22:32:26.275Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000352",
+      "client_id": "client_000352",
+      "card_id": "card_000352",
+      "ip_address": "96.89.249.54",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 56500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 524,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T00:03:53.861Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000353",
+      "client_id": "client_000353",
+      "card_id": "card_000353",
+      "ip_address": "152.228.69.9",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 12500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 863,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T14:51:09.516Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000354",
+      "client_id": "client_000354",
+      "card_id": "card_000354",
+      "ip_address": "162.13.74.207",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 13000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 775,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T00:30:34.591Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000355",
+      "client_id": "client_000355",
+      "card_id": "card_000355",
+      "ip_address": "233.143.191.135",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 50000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 738,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T16:50:09.726Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000356",
+      "client_id": "client_000356",
+      "card_id": "card_000356",
+      "ip_address": "248.214.203.253",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 6500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 468,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-14T21:29:51.420Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000357",
+      "client_id": "client_000357",
+      "card_id": "card_000357",
+      "ip_address": "162.250.134.122",
+      "os": "Web",
+      "product_type": "credit_standard",
+      "credit_limit": 46500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 828,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T16:56:33.497Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000358",
+      "client_id": "client_000358",
+      "card_id": "card_000358",
+      "ip_address": "247.96.74.150",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 33000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 271,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-26T16:52:46.645Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000359",
+      "client_id": "client_000359",
+      "card_id": "card_000359",
+      "ip_address": "216.55.29.91",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 49000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 466,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T01:11:59.937Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000360",
+      "client_id": "client_000360",
+      "card_id": "card_000360",
+      "ip_address": "237.250.87.56",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 457,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-02T18:38:46.560Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000361",
+      "client_id": "client_000361",
+      "card_id": "card_000361",
+      "ip_address": "24.40.119.29",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 655,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T01:49:17.044Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000362",
+      "client_id": "client_000362",
+      "card_id": "card_000362",
+      "ip_address": "220.138.25.181",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 33500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 267,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T14:25:07.723Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000363",
+      "client_id": "client_000363",
+      "card_id": "card_000363",
+      "ip_address": "89.26.235.89",
+      "os": "Web",
+      "product_type": "credit_light",
+      "credit_limit": 7500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 498,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T23:42:48.375Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000364",
+      "client_id": "client_000364",
+      "card_id": "card_000364",
+      "ip_address": "163.144.248.154",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 30000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 501,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-14T07:55:52.106Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000365",
+      "client_id": "client_000365",
+      "card_id": "card_000365",
+      "ip_address": "222.227.232.26",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 13000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 831,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-14T23:28:12.146Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000366",
+      "client_id": "client_000366",
+      "card_id": "card_000366",
+      "ip_address": "47.215.82.214",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 11000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 613,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T10:02:32.163Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000367",
+      "client_id": "client_000367",
+      "card_id": "card_000367",
+      "ip_address": "76.207.95.174",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "premium",
+      "risk_score": 621,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T10:06:43.480Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000368",
+      "client_id": "client_000368",
+      "card_id": "card_000368",
+      "ip_address": "22.64.170.15",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 22500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 557,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-23T20:46:50.093Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000369",
+      "client_id": "client_000369",
+      "card_id": "card_000369",
+      "ip_address": "84.198.254.67",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 9000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "premium",
+      "risk_score": 576,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T18:02:52.946Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000370",
+      "client_id": "client_000370",
+      "card_id": "card_000370",
+      "ip_address": "245.78.227.132",
+      "os": "Web",
+      "product_type": "credit_light",
+      "credit_limit": 11000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 582,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-04T18:42:19.871Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000371",
+      "client_id": "client_000371",
+      "card_id": "card_000371",
+      "ip_address": "133.95.141.202",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 476,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-13T04:55:53.382Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000372",
+      "client_id": "client_000372",
+      "card_id": "card_000372",
+      "ip_address": "237.176.51.3",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 309,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-31T12:59:59.553Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000373",
+      "client_id": "client_000373",
+      "card_id": "card_000373",
+      "ip_address": "46.125.188.48",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 292,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T07:26:38.305Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000374",
+      "client_id": "client_000374",
+      "card_id": "card_000374",
+      "ip_address": "24.231.109.96",
+      "os": "Web",
+      "product_type": "credit_light",
+      "credit_limit": 14500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 261,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T12:33:53.309Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000375",
+      "client_id": "client_000375",
+      "card_id": "card_000375",
+      "ip_address": "213.137.42.88",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 11500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 646,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T16:15:05.974Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000376",
+      "client_id": "client_000376",
+      "card_id": "card_000376",
+      "ip_address": "127.115.96.19",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 32000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 731,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-27T13:29:30.784Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000377",
+      "client_id": "client_000377",
+      "card_id": "card_000377",
+      "ip_address": "176.72.143.225",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 18000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 346,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-03T04:52:46.490Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000378",
+      "client_id": "client_000378",
+      "card_id": "card_000378",
+      "ip_address": "112.94.88.125",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 13500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 576,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-09T22:40:27.669Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000379",
+      "client_id": "client_000379",
+      "card_id": "card_000379",
+      "ip_address": "194.23.168.235",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 12500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 558,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-04T16:46:18.298Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000380",
+      "client_id": "client_000380",
+      "card_id": "card_000380",
+      "ip_address": "206.143.95.45",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 484,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T18:45:15.274Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000381",
+      "client_id": "client_000381",
+      "card_id": "card_000381",
+      "ip_address": "229.110.38.158",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 9500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 418,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T23:40:45.935Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000382",
+      "client_id": "client_000382",
+      "card_id": "card_000382",
+      "ip_address": "41.155.134.160",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 10000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 304,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-12T11:56:16.104Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000383",
+      "client_id": "client_000383",
+      "card_id": "card_000383",
+      "ip_address": "238.185.57.222",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 39000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 422,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-08T19:37:49.265Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000384",
+      "client_id": "client_000384",
+      "card_id": "card_000384",
+      "ip_address": "185.179.17.215",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 528,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T18:14:29.281Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000385",
+      "client_id": "client_000385",
+      "card_id": "card_000385",
+      "ip_address": "65.52.208.184",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 45000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 804,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-04T12:42:32.738Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000386",
+      "client_id": "client_000386",
+      "card_id": "card_000386",
+      "ip_address": "33.91.136.152",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 25000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 834,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-04T00:06:35.560Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000387",
+      "client_id": "client_000387",
+      "card_id": "card_000387",
+      "ip_address": "233.93.9.32",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 39000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 632,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T17:51:42.426Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000388",
+      "client_id": "client_000388",
+      "card_id": "card_000388",
+      "ip_address": "166.59.213.148",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 147500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 816,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-21T02:49:32.229Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000389",
+      "client_id": "client_000389",
+      "card_id": "card_000389",
+      "ip_address": "207.219.73.244",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 9000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 675,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T11:30:12.430Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000390",
+      "client_id": "client_000390",
+      "card_id": "card_000390",
+      "ip_address": "222.199.9.88",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 848,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T09:58:05.066Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000391",
+      "client_id": "client_000391",
+      "card_id": "card_000391",
+      "ip_address": "145.17.119.192",
+      "os": "Web",
+      "product_type": "credit_premium",
+      "credit_limit": 34500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 842,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-14T22:33:19.261Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000392",
+      "client_id": "client_000392",
+      "card_id": "card_000392",
+      "ip_address": "201.28.167.108",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 251,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T01:10:51.521Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000393",
+      "client_id": "client_000393",
+      "card_id": "card_000393",
+      "ip_address": "233.117.57.214",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 95500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 756,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T08:37:55.285Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000394",
+      "client_id": "client_000394",
+      "card_id": "card_000394",
+      "ip_address": "57.180.205.45",
+      "os": "Web",
+      "product_type": "credit_light",
+      "credit_limit": 8000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 715,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-17T19:10:16.272Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000395",
+      "client_id": "client_000395",
+      "card_id": "card_000395",
+      "ip_address": "56.114.151.146",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 25500,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 329,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-18T18:14:52.789Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000396",
+      "client_id": "client_000396",
+      "card_id": "card_000396",
+      "ip_address": "163.16.148.18",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 47000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 657,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-28T23:54:26.194Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000397",
+      "client_id": "client_000397",
+      "card_id": "card_000397",
+      "ip_address": "137.109.191.240",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 25500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 319,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T14:09:01.783Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000398",
+      "client_id": "client_000398",
+      "card_id": "card_000398",
+      "ip_address": "112.168.211.27",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 13500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "premium",
+      "risk_score": 323,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-14T15:52:04.018Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000399",
+      "client_id": "client_000399",
+      "card_id": "card_000399",
+      "ip_address": "14.21.86.160",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 470,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-24T08:35:15.141Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000400",
+      "client_id": "client_000400",
+      "card_id": "card_000400",
+      "ip_address": "17.122.115.158",
+      "os": "Web",
+      "product_type": "credit_light",
+      "credit_limit": 10500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 698,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-11T12:45:00.095Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000401",
+      "client_id": "client_000401",
+      "card_id": "card_000401",
+      "ip_address": "249.169.130.9",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 10500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 446,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T13:45:13.678Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000402",
+      "client_id": "client_000402",
+      "card_id": "card_000402",
+      "ip_address": "97.101.156.108",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 120500,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 842,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-07T06:30:41.219Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000403",
+      "client_id": "client_000403",
+      "card_id": "card_000403",
+      "ip_address": "147.76.107.54",
+      "os": "Android",
+      "product_type": "credit_standard",
+      "credit_limit": 20000,
+      "acquisition_channel": "referral",
+      "kyc_segment": "mass",
+      "risk_score": 439,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T22:23:29.985Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000404",
+      "client_id": "client_000404",
+      "card_id": "card_000404",
+      "ip_address": "193.253.74.115",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 3500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 707,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-08T07:35:30.956Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000405",
+      "client_id": "client_000405",
+      "card_id": "card_000405",
+      "ip_address": "120.251.236.109",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 5500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 800,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T04:13:46.324Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000406",
+      "client_id": "client_000406",
+      "card_id": "card_000406",
+      "ip_address": "54.151.82.165",
+      "os": "iOS",
+      "product_type": "credit_premium",
+      "credit_limit": 75500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 759,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-22T02:59:25.033Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000407",
+      "client_id": "client_000407",
+      "card_id": "card_000407",
+      "ip_address": "178.150.5.196",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 10500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "premium",
+      "risk_score": 276,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-25T08:52:58.863Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000408",
+      "client_id": "client_000408",
+      "card_id": "card_000408",
+      "ip_address": "204.212.35.147",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 33500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 513,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-05T12:06:05.994Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000409",
+      "client_id": "client_000409",
+      "card_id": "card_000409",
+      "ip_address": "209.16.16.195",
+      "os": "iOS",
+      "product_type": "credit_standard",
+      "credit_limit": 26500,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 822,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-19T04:16:08.882Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000410",
+      "client_id": "client_000410",
+      "card_id": "card_000410",
+      "ip_address": "213.97.86.47",
+      "os": "iOS",
+      "product_type": "credit_light",
+      "credit_limit": 8000,
+      "acquisition_channel": "paid",
+      "kyc_segment": "mass",
+      "risk_score": 577,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-15T17:52:31.684Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000411",
+      "client_id": "client_000411",
+      "card_id": "card_000411",
+      "ip_address": "216.12.190.153",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 100500,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass_affluent",
+      "risk_score": 601,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-30T11:49:49.280Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000412",
+      "client_id": "client_000412",
+      "card_id": "card_000412",
+      "ip_address": "108.159.230.191",
+      "os": "Android",
+      "product_type": "credit_light",
+      "credit_limit": 15000,
+      "acquisition_channel": "preapproved",
+      "kyc_segment": "mass",
+      "risk_score": 671,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-27T08:18:28.993Z"
+  },
+  {
+    "event": "card_activated",
+    "properties": {
+      "distinct_id": "client_000413",
+      "client_id": "client_000413",
+      "card_id": "card_000413",
+      "ip_address": "146.18.96.118",
+      "os": "Android",
+      "product_type": "credit_premium",
+      "credit_limit": 111000,
+      "acquisition_channel": "organic",
+      "kyc_segment": "mass",
+      "risk_score": 374,
+      "funnel_level": "L1"
+    },
+    "timestamp": "2026-03-29T00:15:39.835Z"
+  }
+]

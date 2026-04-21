@@ -1,0 +1,105 @@
+{
+  "month": "2026-05",
+  "period_start": "2026-05-01",
+  "period_end": "2026-05-31",
+  "m0_month": "2026-03",
+  "months": [
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "generated_at": "2026-04-21T10:33:22.265Z",
+  "files": {
+    "card_activated": "card_activated.json",
+    "transaction_completed": "transaction_completed.json",
+    "reward_section_viewed": "reward_section_viewed.json",
+    "reward_type_selected": "reward_type_selected.json",
+    "communication_sent": "communication_sent.json",
+    "communication_delivered": "communication_delivered.json",
+    "communication_opened": "communication_opened.json",
+    "communication_clicked": "communication_clicked.json",
+    "credit_profile_snapshot": "credit_profile_snapshot.json",
+    "experiment_assigned": "experiment_assigned.json"
+  },
+  "counts": {
+    "card_activated": 0,
+    "transaction_completed": 2142,
+    "reward_section_viewed": 671,
+    "reward_type_selected": 147,
+    "credit_profile_snapshot": 11871,
+    "experiment_assigned": 2065,
+    "communication_sent": 1175,
+    "communication_delivered": 1141,
+    "communication_opened": 496,
+    "communication_clicked": 133
+  },
+  "cohort_size": 413,
+  "cards_range": [
+    400,
+    500
+  ],
+  "scenario": {
+    "name": "baseline",
+    "description": "Базовий сценарій (п.1.2): банк без модуля винагород — 3000→1200→300→150",
+    "archetype_weights": {
+      "dormant": 0.6,
+      "occasional": 0.3,
+      "habitual": 0.05,
+      "revolver": 0.05
+    },
+    "per_client_per_month": {
+      "tx": 5,
+      "views": 1.5,
+      "selections": 0.35,
+      "comms": 3
+    },
+    "snapshots": {
+      "perClientMin": 26,
+      "perClientMax": 31
+    },
+    "experiments": {
+      "exclusionCampaignsPerMonth": [
+        3,
+        6
+      ],
+      "exclusionHoldoutShare": 0.1,
+      "tierDowngradeShare": 0.05,
+      "tierDurationMonths": 12
+    },
+    "jitter": 0.2
+  },
+  "archetype_distribution": {
+    "dormant": 243,
+    "occasional": 119,
+    "habitual": 22,
+    "revolver": 29
+  },
+  "monthly_targets": {
+    "tx": [
+      309,
+      2079,
+      2142,
+      2420
+    ],
+    "views": [
+      308,
+      663,
+      671,
+      624
+    ],
+    "selections": [
+      88,
+      160,
+      147,
+      148
+    ],
+    "comms": [
+      1543,
+      1210,
+      1181,
+      1433
+    ]
+  },
+  "seed": "sample"
+}

@@ -1,0 +1,6746 @@
+[
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000003",
+      "client_id": "client_000003",
+      "view_id": "view_00000006",
+      "session_duration_sec": 71,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_transport",
+        "cat_food"
+      ],
+      "offers_clicked": [],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T03:47:39.044Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000003",
+      "client_id": "client_000003",
+      "view_id": "view_00000007",
+      "session_duration_sec": 180,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_groceries",
+        "cat_coffee",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_groceries"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T02:28:24.638Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000005",
+      "client_id": "client_000005",
+      "view_id": "view_00000022",
+      "session_duration_sec": 176,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_transport",
+        "cat_food",
+        "cat_coffee",
+        "cat_groceries"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-05T17:36:30.019Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000005",
+      "client_id": "client_000005",
+      "view_id": "view_00000023",
+      "session_duration_sec": 172,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_groceries",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-01T19:56:50.882Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000007",
+      "client_id": "client_000007",
+      "view_id": "view_00000038",
+      "session_duration_sec": 146,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_food",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T01:06:49.361Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000008",
+      "client_id": "client_000008",
+      "view_id": "view_00000047",
+      "session_duration_sec": 81,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T01:26:53.510Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000008",
+      "client_id": "client_000008",
+      "view_id": "view_00000048",
+      "session_duration_sec": 98,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_transport",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-14T02:43:01.462Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000009",
+      "client_id": "client_000009",
+      "view_id": "view_00000063",
+      "session_duration_sec": 89,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T15:45:45.220Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000010",
+      "client_id": "client_000010",
+      "view_id": "view_00000072",
+      "session_duration_sec": 61,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_food",
+        "cat_transport",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-14T11:58:10.510Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000014",
+      "client_id": "client_000014",
+      "view_id": "view_00000085",
+      "session_duration_sec": 29,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_food",
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_coffee",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T06:26:55.339Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000014",
+      "client_id": "client_000014",
+      "view_id": "view_00000086",
+      "session_duration_sec": 6,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T05:10:35.539Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000014",
+      "client_id": "client_000014",
+      "view_id": "view_00000087",
+      "session_duration_sec": 79,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T07:03:46.190Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000017",
+      "client_id": "client_000017",
+      "view_id": "view_00000103",
+      "session_duration_sec": 159,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_food",
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T03:06:22.967Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000017",
+      "client_id": "client_000017",
+      "view_id": "view_00000104",
+      "session_duration_sec": 144,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T20:28:35.885Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000018",
+      "client_id": "client_000018",
+      "view_id": "view_00000117",
+      "session_duration_sec": 67,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_transport",
+        "cat_coffee",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T07:31:24.813Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000019",
+      "client_id": "client_000019",
+      "view_id": "view_00000125",
+      "session_duration_sec": 129,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T21:08:27.362Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000020",
+      "client_id": "client_000020",
+      "view_id": "view_00000127",
+      "session_duration_sec": 122,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_coffee",
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-21T17:21:13.787Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000024",
+      "client_id": "client_000024",
+      "view_id": "view_00000133",
+      "session_duration_sec": 60,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T12:00:27.255Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000025",
+      "client_id": "client_000025",
+      "view_id": "view_00000135",
+      "session_duration_sec": 115,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_food",
+        "cat_transport",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T15:01:43.638Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000026",
+      "client_id": "client_000026",
+      "view_id": "view_00000137",
+      "session_duration_sec": 144,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_coffee",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T21:17:26.349Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000029",
+      "client_id": "client_000029",
+      "view_id": "view_00000151",
+      "session_duration_sec": 120,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T03:53:34.716Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000031",
+      "client_id": "client_000031",
+      "view_id": "view_00000160",
+      "session_duration_sec": 27,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_coffee",
+        "cat_clothing",
+        "cat_fuel",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T19:24:51.854Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000036",
+      "client_id": "client_000036",
+      "view_id": "view_00000177",
+      "session_duration_sec": 64,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T06:58:31.853Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000036",
+      "client_id": "client_000036",
+      "view_id": "view_00000178",
+      "session_duration_sec": 173,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_food",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T20:28:08.560Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000037",
+      "client_id": "client_000037",
+      "view_id": "view_00000193",
+      "session_duration_sec": 97,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_groceries",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T07:22:51.679Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000038",
+      "client_id": "client_000038",
+      "view_id": "view_00000200",
+      "session_duration_sec": 15,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_transport",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T23:20:04.508Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000040",
+      "client_id": "client_000040",
+      "view_id": "view_00000210",
+      "session_duration_sec": 45,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_food",
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T19:21:46.554Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000041",
+      "client_id": "client_000041",
+      "view_id": "view_00000218",
+      "session_duration_sec": 175,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_food",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T05:50:24.480Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000050",
+      "client_id": "client_000050",
+      "view_id": "view_00000233",
+      "session_duration_sec": 69,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_transport",
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T18:30:18.506Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000051",
+      "client_id": "client_000051",
+      "view_id": "view_00000236",
+      "session_duration_sec": 15,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T23:38:55.397Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000052",
+      "client_id": "client_000052",
+      "view_id": "view_00000238",
+      "session_duration_sec": 133,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_fuel",
+        "cat_groceries",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_clothing",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T23:02:43.458Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000052",
+      "client_id": "client_000052",
+      "view_id": "view_00000239",
+      "session_duration_sec": 53,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_groceries",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-09T03:24:53.588Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000053",
+      "client_id": "client_000053",
+      "view_id": "view_00000255",
+      "session_duration_sec": 58,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T04:07:58.373Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000056",
+      "client_id": "client_000056",
+      "view_id": "view_00000262",
+      "session_duration_sec": 148,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_clothing",
+        "cat_transport",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-15T06:56:07.281Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000056",
+      "client_id": "client_000056",
+      "view_id": "view_00000263",
+      "session_duration_sec": 7,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_transport",
+        "cat_coffee",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_pharmacy"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T04:10:32.626Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000058",
+      "client_id": "client_000058",
+      "view_id": "view_00000279",
+      "session_duration_sec": 94,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T23:20:08.226Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000061",
+      "client_id": "client_000061",
+      "view_id": "view_00000287",
+      "session_duration_sec": 21,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_clothing",
+        "cat_transport",
+        "cat_fuel",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_fuel",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T11:24:10.871Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000062",
+      "client_id": "client_000062",
+      "view_id": "view_00000294",
+      "session_duration_sec": 50,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_food",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T19:19:36.860Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000064",
+      "client_id": "client_000064",
+      "view_id": "view_00000307",
+      "session_duration_sec": 115,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_food",
+        "cat_coffee",
+        "cat_clothing",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-14T01:26:00.366Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000066",
+      "client_id": "client_000066",
+      "view_id": "view_00000311",
+      "session_duration_sec": 180,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T21:36:31.504Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000067",
+      "client_id": "client_000067",
+      "view_id": "view_00000321",
+      "session_duration_sec": 31,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T23:46:23.556Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000067",
+      "client_id": "client_000067",
+      "view_id": "view_00000322",
+      "session_duration_sec": 84,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_fuel",
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T23:19:48.699Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000069",
+      "client_id": "client_000069",
+      "view_id": "view_00000334",
+      "session_duration_sec": 89,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-14T19:55:56.791Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000069",
+      "client_id": "client_000069",
+      "view_id": "view_00000335",
+      "session_duration_sec": 117,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_transport",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-07T10:54:35.305Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000069",
+      "client_id": "client_000069",
+      "view_id": "view_00000336",
+      "session_duration_sec": 14,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T01:06:13.162Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000071",
+      "client_id": "client_000071",
+      "view_id": "view_00000353",
+      "session_duration_sec": 103,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_food",
+        "cat_transport",
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T14:51:35.866Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000072",
+      "client_id": "client_000072",
+      "view_id": "view_00000356",
+      "session_duration_sec": 130,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_food",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T03:16:11.527Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000076",
+      "client_id": "client_000076",
+      "view_id": "view_00000364",
+      "session_duration_sec": 151,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T11:45:14.050Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000077",
+      "client_id": "client_000077",
+      "view_id": "view_00000368",
+      "session_duration_sec": 75,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_food",
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T20:25:06.287Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000079",
+      "client_id": "client_000079",
+      "view_id": "view_00000378",
+      "session_duration_sec": 135,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_food",
+        "cat_groceries",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_pharmacy",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T03:51:36.526Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000080",
+      "client_id": "client_000080",
+      "view_id": "view_00000388",
+      "session_duration_sec": 134,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_food",
+        "cat_groceries"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T20:06:49.669Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000080",
+      "client_id": "client_000080",
+      "view_id": "view_00000389",
+      "session_duration_sec": 166,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_coffee",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T02:30:19.624Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000081",
+      "client_id": "client_000081",
+      "view_id": "view_00000405",
+      "session_duration_sec": 109,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_coffee",
+        "cat_food"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T06:36:59.569Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000081",
+      "client_id": "client_000081",
+      "view_id": "view_00000406",
+      "session_duration_sec": 157,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_food",
+        "cat_groceries",
+        "cat_coffee"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-20T05:52:25.985Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000082",
+      "client_id": "client_000082",
+      "view_id": "view_00000419",
+      "session_duration_sec": 161,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T09:31:47.480Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000082",
+      "client_id": "client_000082",
+      "view_id": "view_00000420",
+      "session_duration_sec": 70,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T16:58:03.336Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000084",
+      "client_id": "client_000084",
+      "view_id": "view_00000438",
+      "session_duration_sec": 46,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_transport",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T06:32:51.397Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000085",
+      "client_id": "client_000085",
+      "view_id": "view_00000445",
+      "session_duration_sec": 121,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_clothing",
+        "cat_food",
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-11T22:51:00.559Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000086",
+      "client_id": "client_000086",
+      "view_id": "view_00000448",
+      "session_duration_sec": 100,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_fuel"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T13:30:20.341Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000088",
+      "client_id": "client_000088",
+      "view_id": "view_00000452",
+      "session_duration_sec": 149,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_transport",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T09:23:20.366Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000088",
+      "client_id": "client_000088",
+      "view_id": "view_00000453",
+      "session_duration_sec": 93,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T13:41:36.909Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000092",
+      "client_id": "client_000092",
+      "view_id": "view_00000470",
+      "session_duration_sec": 178,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-11T15:09:47.838Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000094",
+      "client_id": "client_000094",
+      "view_id": "view_00000481",
+      "session_duration_sec": 57,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_transport",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T13:51:04.270Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000095",
+      "client_id": "client_000095",
+      "view_id": "view_00000489",
+      "session_duration_sec": 12,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_transport",
+        "cat_groceries",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T00:08:36.742Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000097",
+      "client_id": "client_000097",
+      "view_id": "view_00000492",
+      "session_duration_sec": 155,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_groceries",
+        "cat_food",
+        "cat_transport",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T11:30:08.846Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000099",
+      "client_id": "client_000099",
+      "view_id": "view_00000503",
+      "session_duration_sec": 44,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_fuel",
+        "cat_transport",
+        "cat_food",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T01:12:22.655Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000101",
+      "client_id": "client_000101",
+      "view_id": "view_00000514",
+      "session_duration_sec": 66,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T13:38:51.740Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000103",
+      "client_id": "client_000103",
+      "view_id": "view_00000525",
+      "session_duration_sec": 151,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T15:58:25.598Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000107",
+      "client_id": "client_000107",
+      "view_id": "view_00000538",
+      "session_duration_sec": 149,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_transport",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-20T01:00:02.536Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000108",
+      "client_id": "client_000108",
+      "view_id": "view_00000546",
+      "session_duration_sec": 165,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_food",
+        "cat_fuel",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T19:56:53.691Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000111",
+      "client_id": "client_000111",
+      "view_id": "view_00000557",
+      "session_duration_sec": 84,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T12:09:51.589Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000111",
+      "client_id": "client_000111",
+      "view_id": "view_00000558",
+      "session_duration_sec": 166,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T11:46:58.982Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000112",
+      "client_id": "client_000112",
+      "view_id": "view_00000567",
+      "session_duration_sec": 27,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_food",
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T22:12:24.309Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000115",
+      "client_id": "client_000115",
+      "view_id": "view_00000579",
+      "session_duration_sec": 70,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_coffee",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T02:02:39.308Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000115",
+      "client_id": "client_000115",
+      "view_id": "view_00000580",
+      "session_duration_sec": 81,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_clothing",
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T18:08:45.599Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000116",
+      "client_id": "client_000116",
+      "view_id": "view_00000588",
+      "session_duration_sec": 165,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_coffee",
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T23:14:40.281Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000117",
+      "client_id": "client_000117",
+      "view_id": "view_00000590",
+      "session_duration_sec": 34,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T07:18:47.227Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000118",
+      "client_id": "client_000118",
+      "view_id": "view_00000598",
+      "session_duration_sec": 134,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-10T06:36:29.067Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000120",
+      "client_id": "client_000120",
+      "view_id": "view_00000610",
+      "session_duration_sec": 152,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_groceries",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T07:10:07.622Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000121",
+      "client_id": "client_000121",
+      "view_id": "view_00000618",
+      "session_duration_sec": 7,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_food",
+        "cat_transport"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T05:14:01.081Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000122",
+      "client_id": "client_000122",
+      "view_id": "view_00000621",
+      "session_duration_sec": 134,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T21:53:57.994Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000123",
+      "client_id": "client_000123",
+      "view_id": "view_00000630",
+      "session_duration_sec": 150,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T03:20:49.676Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000123",
+      "client_id": "client_000123",
+      "view_id": "view_00000631",
+      "session_duration_sec": 139,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_food",
+        "cat_entertainment",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T09:04:28.683Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000124",
+      "client_id": "client_000124",
+      "view_id": "view_00000646",
+      "session_duration_sec": 122,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_coffee",
+        "cat_transport",
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T14:12:36.289Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000125",
+      "client_id": "client_000125",
+      "view_id": "view_00000654",
+      "session_duration_sec": 167,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_food",
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_coffee",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T09:07:29.643Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000128",
+      "client_id": "client_000128",
+      "view_id": "view_00000659",
+      "session_duration_sec": 148,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_groceries",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T04:21:46.111Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000128",
+      "client_id": "client_000128",
+      "view_id": "view_00000660",
+      "session_duration_sec": 61,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-15T09:23:23.753Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000133",
+      "client_id": "client_000133",
+      "view_id": "view_00000689",
+      "session_duration_sec": 92,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_transport",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T23:49:07.220Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000133",
+      "client_id": "client_000133",
+      "view_id": "view_00000690",
+      "session_duration_sec": 88,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_food",
+        "cat_transport",
+        "cat_coffee",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T21:37:38.560Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000135",
+      "client_id": "client_000135",
+      "view_id": "view_00000699",
+      "session_duration_sec": 37,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_groceries",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T03:07:24.728Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000137",
+      "client_id": "client_000137",
+      "view_id": "view_00000709",
+      "session_duration_sec": 74,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_coffee",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_transport",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T12:01:04.258Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000137",
+      "client_id": "client_000137",
+      "view_id": "view_00000710",
+      "session_duration_sec": 178,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_transport",
+        "cat_fuel",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T15:41:32.243Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000143",
+      "client_id": "client_000143",
+      "view_id": "view_00000735",
+      "session_duration_sec": 32,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T04:39:24.423Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000145",
+      "client_id": "client_000145",
+      "view_id": "view_00000744",
+      "session_duration_sec": 154,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-11T19:52:17.206Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000146",
+      "client_id": "client_000146",
+      "view_id": "view_00000752",
+      "session_duration_sec": 155,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T00:00:57.088Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000147",
+      "client_id": "client_000147",
+      "view_id": "view_00000761",
+      "session_duration_sec": 163,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T11:23:55.094Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000147",
+      "client_id": "client_000147",
+      "view_id": "view_00000762",
+      "session_duration_sec": 27,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_coffee",
+        "cat_groceries",
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T13:27:21.500Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000149",
+      "client_id": "client_000149",
+      "view_id": "view_00000774",
+      "session_duration_sec": 34,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_groceries",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T10:41:15.438Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000149",
+      "client_id": "client_000149",
+      "view_id": "view_00000775",
+      "session_duration_sec": 129,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_fuel",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T23:59:23.560Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000150",
+      "client_id": "client_000150",
+      "view_id": "view_00000790",
+      "session_duration_sec": 168,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_fuel",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T16:03:39.480Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000151",
+      "client_id": "client_000151",
+      "view_id": "view_00000798",
+      "session_duration_sec": 71,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T11:43:20.060Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000151",
+      "client_id": "client_000151",
+      "view_id": "view_00000799",
+      "session_duration_sec": 6,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_fuel",
+        "cat_food",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-15T22:46:11.840Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000152",
+      "client_id": "client_000152",
+      "view_id": "view_00000815",
+      "session_duration_sec": 23,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_food",
+        "cat_clothing",
+        "cat_coffee",
+        "cat_groceries"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T21:01:28.548Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000152",
+      "client_id": "client_000152",
+      "view_id": "view_00000816",
+      "session_duration_sec": 33,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_transport",
+        "cat_fuel",
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T12:29:15.034Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000152",
+      "client_id": "client_000152",
+      "view_id": "view_00000817",
+      "session_duration_sec": 127,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_transport",
+        "cat_clothing",
+        "cat_coffee",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T17:36:36.904Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000154",
+      "client_id": "client_000154",
+      "view_id": "view_00000835",
+      "session_duration_sec": 90,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_fuel",
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T15:09:23.929Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000155",
+      "client_id": "client_000155",
+      "view_id": "view_00000837",
+      "session_duration_sec": 128,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_transport",
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_coffee",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T04:37:56.132Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000157",
+      "client_id": "client_000157",
+      "view_id": "view_00000841",
+      "session_duration_sec": 148,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_coffee",
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T06:32:15.976Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000157",
+      "client_id": "client_000157",
+      "view_id": "view_00000842",
+      "session_duration_sec": 43,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_fuel",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T18:45:02.281Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000157",
+      "client_id": "client_000157",
+      "view_id": "view_00000843",
+      "session_duration_sec": 29,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_food",
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_groceries",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T23:48:55.007Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000158",
+      "client_id": "client_000158",
+      "view_id": "view_00000858",
+      "session_duration_sec": 72,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-20T19:55:36.173Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000159",
+      "client_id": "client_000159",
+      "view_id": "view_00000860",
+      "session_duration_sec": 90,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_transport"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T10:24:05.537Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000159",
+      "client_id": "client_000159",
+      "view_id": "view_00000861",
+      "session_duration_sec": 76,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_coffee"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T20:50:01.379Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000160",
+      "client_id": "client_000160",
+      "view_id": "view_00000875",
+      "session_duration_sec": 112,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T19:12:09.112Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000161",
+      "client_id": "client_000161",
+      "view_id": "view_00000884",
+      "session_duration_sec": 157,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-07T06:19:25.974Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000162",
+      "client_id": "client_000162",
+      "view_id": "view_00000892",
+      "session_duration_sec": 118,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-20T13:49:35.292Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000163",
+      "client_id": "client_000163",
+      "view_id": "view_00000895",
+      "session_duration_sec": 87,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-21T14:43:25.409Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000165",
+      "client_id": "client_000165",
+      "view_id": "view_00000906",
+      "session_duration_sec": 108,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_food",
+        "cat_transport",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T13:22:58.283Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000166",
+      "client_id": "client_000166",
+      "view_id": "view_00000914",
+      "session_duration_sec": 168,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_clothing",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-20T19:59:32.662Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000168",
+      "client_id": "client_000168",
+      "view_id": "view_00000918",
+      "session_duration_sec": 22,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_fuel",
+        "cat_transport"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T14:03:22.708Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000168",
+      "client_id": "client_000168",
+      "view_id": "view_00000919",
+      "session_duration_sec": 104,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T18:02:24.087Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000169",
+      "client_id": "client_000169",
+      "view_id": "view_00000926",
+      "session_duration_sec": 22,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T19:32:11.086Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000170",
+      "client_id": "client_000170",
+      "view_id": "view_00000928",
+      "session_duration_sec": 101,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_food",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T21:09:54.093Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000171",
+      "client_id": "client_000171",
+      "view_id": "view_00000941",
+      "session_duration_sec": 67,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-08T01:03:00.757Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000171",
+      "client_id": "client_000171",
+      "view_id": "view_00000942",
+      "session_duration_sec": 87,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T16:23:40.417Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000171",
+      "client_id": "client_000171",
+      "view_id": "view_00000943",
+      "session_duration_sec": 116,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_food",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T23:29:43.568Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000172",
+      "client_id": "client_000172",
+      "view_id": "view_00000959",
+      "session_duration_sec": 149,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_clothing"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-15T23:52:02.729Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000172",
+      "client_id": "client_000172",
+      "view_id": "view_00000960",
+      "session_duration_sec": 113,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_transport",
+        "cat_clothing",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T14:28:01.549Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000173",
+      "client_id": "client_000173",
+      "view_id": "view_00000975",
+      "session_duration_sec": 171,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_coffee",
+        "cat_transport",
+        "cat_food"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T03:51:05.748Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000174",
+      "client_id": "client_000174",
+      "view_id": "view_00000983",
+      "session_duration_sec": 116,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_food",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T23:46:39.313Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000174",
+      "client_id": "client_000174",
+      "view_id": "view_00000984",
+      "session_duration_sec": 55,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_fuel",
+        "cat_clothing",
+        "cat_groceries",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T08:27:08.042Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000175",
+      "client_id": "client_000175",
+      "view_id": "view_00000998",
+      "session_duration_sec": 45,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_fuel",
+        "cat_coffee",
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T06:26:33.215Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000177",
+      "client_id": "client_000177",
+      "view_id": "view_00001002",
+      "session_duration_sec": 148,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_food",
+        "cat_transport",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T22:53:05.442Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000178",
+      "client_id": "client_000178",
+      "view_id": "view_00001010",
+      "session_duration_sec": 50,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_coffee",
+        "cat_groceries",
+        "cat_transport",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T16:52:16.443Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000179",
+      "client_id": "client_000179",
+      "view_id": "view_00001012",
+      "session_duration_sec": 125,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T06:04:55.863Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000180",
+      "client_id": "client_000180",
+      "view_id": "view_00001014",
+      "session_duration_sec": 99,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_food",
+        "cat_fuel",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T18:38:41.328Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000182",
+      "client_id": "client_000182",
+      "view_id": "view_00001019",
+      "session_duration_sec": 83,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T08:11:03.693Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000182",
+      "client_id": "client_000182",
+      "view_id": "view_00001020",
+      "session_duration_sec": 124,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T12:55:02.002Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000186",
+      "client_id": "client_000186",
+      "view_id": "view_00001033",
+      "session_duration_sec": 19,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_clothing",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-02T20:14:13.564Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000187",
+      "client_id": "client_000187",
+      "view_id": "view_00001035",
+      "session_duration_sec": 136,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T19:16:56.283Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000187",
+      "client_id": "client_000187",
+      "view_id": "view_00001036",
+      "session_duration_sec": 115,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_coffee",
+        "cat_transport"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T09:33:26.531Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000189",
+      "client_id": "client_000189",
+      "view_id": "view_00001045",
+      "session_duration_sec": 122,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T00:30:30.369Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000189",
+      "client_id": "client_000189",
+      "view_id": "view_00001046",
+      "session_duration_sec": 127,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T10:10:43.993Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000193",
+      "client_id": "client_000193",
+      "view_id": "view_00001063",
+      "session_duration_sec": 93,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T16:37:42.734Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000194",
+      "client_id": "client_000194",
+      "view_id": "view_00001066",
+      "session_duration_sec": 67,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_food",
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_transport"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-21T22:04:47.647Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000196",
+      "client_id": "client_000196",
+      "view_id": "view_00001076",
+      "session_duration_sec": 40,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_transport",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_groceries",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-21T16:28:11.668Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000197",
+      "client_id": "client_000197",
+      "view_id": "view_00001078",
+      "session_duration_sec": 165,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_fuel",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T17:31:42.488Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000199",
+      "client_id": "client_000199",
+      "view_id": "view_00001087",
+      "session_duration_sec": 139,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_coffee",
+        "cat_transport",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T01:17:49.873Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000199",
+      "client_id": "client_000199",
+      "view_id": "view_00001088",
+      "session_duration_sec": 103,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_groceries",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_transport",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T16:11:20.841Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000200",
+      "client_id": "client_000200",
+      "view_id": "view_00001096",
+      "session_duration_sec": 150,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_groceries",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_food"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T20:44:47.488Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000200",
+      "client_id": "client_000200",
+      "view_id": "view_00001097",
+      "session_duration_sec": 25,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_pharmacy",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T01:18:54.238Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000201",
+      "client_id": "client_000201",
+      "view_id": "view_00001113",
+      "session_duration_sec": 84,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_clothing",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T14:13:47.102Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000204",
+      "client_id": "client_000204",
+      "view_id": "view_00001126",
+      "session_duration_sec": 115,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_food",
+        "cat_coffee",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_transport"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T04:17:51.739Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000206",
+      "client_id": "client_000206",
+      "view_id": "view_00001136",
+      "session_duration_sec": 31,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_groceries",
+        "cat_clothing"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T17:22:37.420Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000208",
+      "client_id": "client_000208",
+      "view_id": "view_00001145",
+      "session_duration_sec": 117,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T05:46:21.115Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000209",
+      "client_id": "client_000209",
+      "view_id": "view_00001153",
+      "session_duration_sec": 127,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T10:36:33.922Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000211",
+      "client_id": "client_000211",
+      "view_id": "view_00001162",
+      "session_duration_sec": 15,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_coffee",
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T12:44:16.316Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000212",
+      "client_id": "client_000212",
+      "view_id": "view_00001176",
+      "session_duration_sec": 23,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T22:25:18.714Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000214",
+      "client_id": "client_000214",
+      "view_id": "view_00001180",
+      "session_duration_sec": 13,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_food",
+        "cat_groceries",
+        "cat_clothing"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T09:55:22.332Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000214",
+      "client_id": "client_000214",
+      "view_id": "view_00001181",
+      "session_duration_sec": 65,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T11:04:34.588Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000216",
+      "client_id": "client_000216",
+      "view_id": "view_00001190",
+      "session_duration_sec": 8,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T18:44:57.643Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000217",
+      "client_id": "client_000217",
+      "view_id": "view_00001199",
+      "session_duration_sec": 30,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_food",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-15T23:12:38.387Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000218",
+      "client_id": "client_000218",
+      "view_id": "view_00001209",
+      "session_duration_sec": 113,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_fuel",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T15:15:07.363Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000219",
+      "client_id": "client_000219",
+      "view_id": "view_00001219",
+      "session_duration_sec": 64,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_fuel",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_coffee",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T14:00:16.797Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000221",
+      "client_id": "client_000221",
+      "view_id": "view_00001222",
+      "session_duration_sec": 11,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_clothing",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T23:45:13.785Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000223",
+      "client_id": "client_000223",
+      "view_id": "view_00001227",
+      "session_duration_sec": 80,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_food",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T02:13:20.287Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000226",
+      "client_id": "client_000226",
+      "view_id": "view_00001232",
+      "session_duration_sec": 154,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T10:29:12.392Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000228",
+      "client_id": "client_000228",
+      "view_id": "view_00001242",
+      "session_duration_sec": 152,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T00:23:30.685Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000231",
+      "client_id": "client_000231",
+      "view_id": "view_00001255",
+      "session_duration_sec": 97,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_fuel",
+        "cat_coffee"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T16:09:17.168Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000232",
+      "client_id": "client_000232",
+      "view_id": "view_00001259",
+      "session_duration_sec": 117,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T23:06:33.902Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000235",
+      "client_id": "client_000235",
+      "view_id": "view_00001267",
+      "session_duration_sec": 13,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_fuel",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T21:56:00.026Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000235",
+      "client_id": "client_000235",
+      "view_id": "view_00001268",
+      "session_duration_sec": 136,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_food",
+        "cat_pharmacy",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T13:39:27.793Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000236",
+      "client_id": "client_000236",
+      "view_id": "view_00001283",
+      "session_duration_sec": 32,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-12T20:00:08.067Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000240",
+      "client_id": "client_000240",
+      "view_id": "view_00001297",
+      "session_duration_sec": 38,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_clothing",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T06:34:06.296Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000241",
+      "client_id": "client_000241",
+      "view_id": "view_00001306",
+      "session_duration_sec": 77,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T21:41:49.116Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000242",
+      "client_id": "client_000242",
+      "view_id": "view_00001316",
+      "session_duration_sec": 23,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_fuel",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T13:52:19.101Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000246",
+      "client_id": "client_000246",
+      "view_id": "view_00001330",
+      "session_duration_sec": 122,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T16:50:38.362Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000246",
+      "client_id": "client_000246",
+      "view_id": "view_00001331",
+      "session_duration_sec": 102,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_food",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T23:45:50.088Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000248",
+      "client_id": "client_000248",
+      "view_id": "view_00001342",
+      "session_duration_sec": 120,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_fuel",
+        "cat_clothing",
+        "cat_groceries",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T18:58:32.331Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000252",
+      "client_id": "client_000252",
+      "view_id": "view_00001355",
+      "session_duration_sec": 31,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_entertainment",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T04:12:55.668Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000252",
+      "client_id": "client_000252",
+      "view_id": "view_00001356",
+      "session_duration_sec": 61,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T07:27:11.079Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000252",
+      "client_id": "client_000252",
+      "view_id": "view_00001357",
+      "session_duration_sec": 166,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_groceries",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T20:02:43.888Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000253",
+      "client_id": "client_000253",
+      "view_id": "view_00001372",
+      "session_duration_sec": 93,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_food",
+        "cat_coffee",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_coffee",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T08:07:47.770Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000254",
+      "client_id": "client_000254",
+      "view_id": "view_00001374",
+      "session_duration_sec": 139,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_food"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T16:55:37.363Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000257",
+      "client_id": "client_000257",
+      "view_id": "view_00001381",
+      "session_duration_sec": 54,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_fuel",
+        "cat_food",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T10:58:31.431Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000259",
+      "client_id": "client_000259",
+      "view_id": "view_00001386",
+      "session_duration_sec": 104,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T23:19:13.191Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000263",
+      "client_id": "client_000263",
+      "view_id": "view_00001390",
+      "session_duration_sec": 100,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_pharmacy",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T07:29:58.676Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000265",
+      "client_id": "client_000265",
+      "view_id": "view_00001395",
+      "session_duration_sec": 96,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_food",
+        "cat_coffee",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T08:30:43.292Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000265",
+      "client_id": "client_000265",
+      "view_id": "view_00001396",
+      "session_duration_sec": 18,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_food",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T00:54:38.001Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000266",
+      "client_id": "client_000266",
+      "view_id": "view_00001404",
+      "session_duration_sec": 90,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T15:34:26.969Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000266",
+      "client_id": "client_000266",
+      "view_id": "view_00001405",
+      "session_duration_sec": 36,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-20T13:59:13.909Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000272",
+      "client_id": "client_000272",
+      "view_id": "view_00001419",
+      "session_duration_sec": 135,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_food",
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_coffee",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T10:52:36.037Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000272",
+      "client_id": "client_000272",
+      "view_id": "view_00001420",
+      "session_duration_sec": 103,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T10:52:34.111Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000273",
+      "client_id": "client_000273",
+      "view_id": "view_00001434",
+      "session_duration_sec": 46,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_coffee",
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T08:16:15.248Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000274",
+      "client_id": "client_000274",
+      "view_id": "view_00001443",
+      "session_duration_sec": 52,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_transport"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T15:40:34.469Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000274",
+      "client_id": "client_000274",
+      "view_id": "view_00001444",
+      "session_duration_sec": 18,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T15:47:11.988Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000275",
+      "client_id": "client_000275",
+      "view_id": "view_00001458",
+      "session_duration_sec": 5,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_clothing",
+        "cat_transport"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-13T03:46:28.160Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000277",
+      "client_id": "client_000277",
+      "view_id": "view_00001466",
+      "session_duration_sec": 82,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_groceries",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T07:44:55.247Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000279",
+      "client_id": "client_000279",
+      "view_id": "view_00001469",
+      "session_duration_sec": 23,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T02:55:01.692Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000280",
+      "client_id": "client_000280",
+      "view_id": "view_00001473",
+      "session_duration_sec": 92,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_fuel",
+        "cat_transport",
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-21T04:37:15.700Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000281",
+      "client_id": "client_000281",
+      "view_id": "view_00001474",
+      "session_duration_sec": 176,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_groceries",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T02:24:36.042Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000283",
+      "client_id": "client_000283",
+      "view_id": "view_00001481",
+      "session_duration_sec": 50,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_fuel",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T15:00:00.449Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000283",
+      "client_id": "client_000283",
+      "view_id": "view_00001482",
+      "session_duration_sec": 175,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_transport",
+        "cat_clothing",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T20:05:22.093Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000284",
+      "client_id": "client_000284",
+      "view_id": "view_00001491",
+      "session_duration_sec": 153,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-21T15:47:29.754Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000285",
+      "client_id": "client_000285",
+      "view_id": "view_00001499",
+      "session_duration_sec": 128,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_clothing",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_coffee"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-03T18:55:03.321Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000285",
+      "client_id": "client_000285",
+      "view_id": "view_00001500",
+      "session_duration_sec": 38,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_groceries",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T18:06:06.584Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000290",
+      "client_id": "client_000290",
+      "view_id": "view_00001515",
+      "session_duration_sec": 49,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T17:44:29.772Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000291",
+      "client_id": "client_000291",
+      "view_id": "view_00001517",
+      "session_duration_sec": 5,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_food",
+        "cat_transport",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_transport",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T08:22:33.793Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000292",
+      "client_id": "client_000292",
+      "view_id": "view_00001521",
+      "session_duration_sec": 63,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_groceries",
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T11:11:00.861Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000293",
+      "client_id": "client_000293",
+      "view_id": "view_00001529",
+      "session_duration_sec": 161,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_coffee",
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_groceries",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T21:08:16.221Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000293",
+      "client_id": "client_000293",
+      "view_id": "view_00001530",
+      "session_duration_sec": 65,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_food",
+        "cat_coffee",
+        "cat_clothing",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T10:15:02.779Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000294",
+      "client_id": "client_000294",
+      "view_id": "view_00001542",
+      "session_duration_sec": 129,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_food",
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T06:30:40.637Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000295",
+      "client_id": "client_000295",
+      "view_id": "view_00001549",
+      "session_duration_sec": 22,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_fuel",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_coffee"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T21:22:27.743Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000296",
+      "client_id": "client_000296",
+      "view_id": "view_00001554",
+      "session_duration_sec": 43,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T18:57:38.992Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000297",
+      "client_id": "client_000297",
+      "view_id": "view_00001563",
+      "session_duration_sec": 40,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T02:17:38.567Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000297",
+      "client_id": "client_000297",
+      "view_id": "view_00001564",
+      "session_duration_sec": 35,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_coffee",
+        "cat_transport",
+        "cat_entertainment",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T22:54:43.683Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000299",
+      "client_id": "client_000299",
+      "view_id": "view_00001574",
+      "session_duration_sec": 153,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_coffee",
+        "cat_food",
+        "cat_transport"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T12:23:01.785Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000301",
+      "client_id": "client_000301",
+      "view_id": "view_00001584",
+      "session_duration_sec": 91,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T04:50:47.901Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000302",
+      "client_id": "client_000302",
+      "view_id": "view_00001585",
+      "session_duration_sec": 63,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T23:00:26.547Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000303",
+      "client_id": "client_000303",
+      "view_id": "view_00001588",
+      "session_duration_sec": 114,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_transport",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T15:05:33.464Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000307",
+      "client_id": "client_000307",
+      "view_id": "view_00001603",
+      "session_duration_sec": 169,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_groceries",
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_coffee",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T20:52:11.995Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000310",
+      "client_id": "client_000310",
+      "view_id": "view_00001611",
+      "session_duration_sec": 40,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_food",
+        "cat_groceries",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T09:22:14.577Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000310",
+      "client_id": "client_000310",
+      "view_id": "view_00001612",
+      "session_duration_sec": 131,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_coffee",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_food"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T04:55:31.641Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000311",
+      "client_id": "client_000311",
+      "view_id": "view_00001626",
+      "session_duration_sec": 47,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T08:15:05.447Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000313",
+      "client_id": "client_000313",
+      "view_id": "view_00001630",
+      "session_duration_sec": 175,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_groceries",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T06:54:49.900Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000315",
+      "client_id": "client_000315",
+      "view_id": "view_00001639",
+      "session_duration_sec": 16,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_food",
+        "cat_entertainment",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_clothing",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T22:10:16.860Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000316",
+      "client_id": "client_000316",
+      "view_id": "view_00001652",
+      "session_duration_sec": 12,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T13:44:43.814Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000317",
+      "client_id": "client_000317",
+      "view_id": "view_00001660",
+      "session_duration_sec": 124,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T00:09:29.530Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000317",
+      "client_id": "client_000317",
+      "view_id": "view_00001661",
+      "session_duration_sec": 86,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_fuel",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T03:06:48.020Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000318",
+      "client_id": "client_000318",
+      "view_id": "view_00001676",
+      "session_duration_sec": 130,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_food"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T14:20:11.269Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000320",
+      "client_id": "client_000320",
+      "view_id": "view_00001686",
+      "session_duration_sec": 27,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T11:34:11.785Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000321",
+      "client_id": "client_000321",
+      "view_id": "view_00001689",
+      "session_duration_sec": 158,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_clothing"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-13T17:27:46.767Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000324",
+      "client_id": "client_000324",
+      "view_id": "view_00001699",
+      "session_duration_sec": 164,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_transport",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T03:55:58.356Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000325",
+      "client_id": "client_000325",
+      "view_id": "view_00001707",
+      "session_duration_sec": 158,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_pharmacy",
+        "cat_clothing"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T21:00:17.143Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000326",
+      "client_id": "client_000326",
+      "view_id": "view_00001715",
+      "session_duration_sec": 51,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T14:28:00.011Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000327",
+      "client_id": "client_000327",
+      "view_id": "view_00001716",
+      "session_duration_sec": 22,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T13:13:06.558Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000327",
+      "client_id": "client_000327",
+      "view_id": "view_00001717",
+      "session_duration_sec": 110,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_fuel",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T23:02:50.611Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000329",
+      "client_id": "client_000329",
+      "view_id": "view_00001729",
+      "session_duration_sec": 154,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_transport",
+        "cat_groceries",
+        "cat_clothing"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T08:41:26.306Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000330",
+      "client_id": "client_000330",
+      "view_id": "view_00001737",
+      "session_duration_sec": 148,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_food",
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_coffee",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-20T11:08:53.812Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000331",
+      "client_id": "client_000331",
+      "view_id": "view_00001738",
+      "session_duration_sec": 97,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_transport",
+        "cat_food",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_transport"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T06:04:10.126Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000331",
+      "client_id": "client_000331",
+      "view_id": "view_00001739",
+      "session_duration_sec": 125,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_food"
+      ],
+      "offers_clicked": [],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T19:53:22.786Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000331",
+      "client_id": "client_000331",
+      "view_id": "view_00001740",
+      "session_duration_sec": 72,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_transport",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T06:36:05.344Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000332",
+      "client_id": "client_000332",
+      "view_id": "view_00001756",
+      "session_duration_sec": 20,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T02:57:03.849Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000334",
+      "client_id": "client_000334",
+      "view_id": "view_00001766",
+      "session_duration_sec": 178,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_coffee",
+        "cat_clothing",
+        "cat_transport",
+        "cat_fuel",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T01:41:30.869Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000336",
+      "client_id": "client_000336",
+      "view_id": "view_00001771",
+      "session_duration_sec": 67,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T13:35:06.028Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000337",
+      "client_id": "client_000337",
+      "view_id": "view_00001779",
+      "session_duration_sec": 174,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T02:49:21.146Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000338",
+      "client_id": "client_000338",
+      "view_id": "view_00001782",
+      "session_duration_sec": 131,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_clothing",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T05:13:59.005Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000338",
+      "client_id": "client_000338",
+      "view_id": "view_00001783",
+      "session_duration_sec": 147,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_groceries",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T21:06:08.824Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000339",
+      "client_id": "client_000339",
+      "view_id": "view_00001799",
+      "session_duration_sec": 89,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_food",
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T22:17:39.880Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000340",
+      "client_id": "client_000340",
+      "view_id": "view_00001808",
+      "session_duration_sec": 74,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_transport",
+        "cat_food",
+        "cat_coffee",
+        "cat_clothing",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_clothing",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T12:07:56.452Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000341",
+      "client_id": "client_000341",
+      "view_id": "view_00001816",
+      "session_duration_sec": 71,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_food",
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T07:33:48.800Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000342",
+      "client_id": "client_000342",
+      "view_id": "view_00001824",
+      "session_duration_sec": 179,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_food",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T16:19:15.550Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000344",
+      "client_id": "client_000344",
+      "view_id": "view_00001833",
+      "session_duration_sec": 23,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_fuel",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-14T01:36:27.478Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000347",
+      "client_id": "client_000347",
+      "view_id": "view_00001847",
+      "session_duration_sec": 62,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_food",
+        "cat_clothing"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T13:11:58.006Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000350",
+      "client_id": "client_000350",
+      "view_id": "view_00001859",
+      "session_duration_sec": 99,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_clothing",
+        "cat_coffee",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_clothing",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-11T19:20:01.782Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000350",
+      "client_id": "client_000350",
+      "view_id": "view_00001860",
+      "session_duration_sec": 93,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_groceries",
+        "cat_coffee",
+        "cat_entertainment",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-09T09:16:56.211Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000351",
+      "client_id": "client_000351",
+      "view_id": "view_00001874",
+      "session_duration_sec": 43,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_coffee",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_transport",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-13T19:52:43.654Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000354",
+      "client_id": "client_000354",
+      "view_id": "view_00001879",
+      "session_duration_sec": 117,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_clothing",
+        "cat_food",
+        "cat_transport"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-15T22:16:13.331Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000355",
+      "client_id": "client_000355",
+      "view_id": "view_00001892",
+      "session_duration_sec": 108,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T05:52:35.426Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000356",
+      "client_id": "client_000356",
+      "view_id": "view_00001900",
+      "session_duration_sec": 47,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_food",
+        "cat_coffee",
+        "cat_transport",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_fuel",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-20T06:29:29.676Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000359",
+      "client_id": "client_000359",
+      "view_id": "view_00001915",
+      "session_duration_sec": 22,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_fuel",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T02:55:01.193Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000360",
+      "client_id": "client_000360",
+      "view_id": "view_00001929",
+      "session_duration_sec": 94,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_transport",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T18:35:28.810Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000361",
+      "client_id": "client_000361",
+      "view_id": "view_00001932",
+      "session_duration_sec": 155,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_groceries",
+        "cat_transport",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T21:23:48.081Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000361",
+      "client_id": "client_000361",
+      "view_id": "view_00001933",
+      "session_duration_sec": 152,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_coffee",
+        "cat_groceries",
+        "cat_food"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T16:59:22.995Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000364",
+      "client_id": "client_000364",
+      "view_id": "view_00001946",
+      "session_duration_sec": 86,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T19:00:57.597Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000365",
+      "client_id": "client_000365",
+      "view_id": "view_00001953",
+      "session_duration_sec": 127,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_food",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T17:51:51.974Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000365",
+      "client_id": "client_000365",
+      "view_id": "view_00001954",
+      "session_duration_sec": 136,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-21T01:47:49.437Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000367",
+      "client_id": "client_000367",
+      "view_id": "view_00001970",
+      "session_duration_sec": 135,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T10:23:53.597Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000370",
+      "client_id": "client_000370",
+      "view_id": "view_00001981",
+      "session_duration_sec": 29,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_coffee",
+        "cat_food",
+        "cat_transport",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T06:54:01.894Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000372",
+      "client_id": "client_000372",
+      "view_id": "view_00001997",
+      "session_duration_sec": 144,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_fuel",
+        "cat_clothing",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_clothing",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T21:47:11.838Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000373",
+      "client_id": "client_000373",
+      "view_id": "view_00002006",
+      "session_duration_sec": 43,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_food",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T09:56:09.956Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000373",
+      "client_id": "client_000373",
+      "view_id": "view_00002007",
+      "session_duration_sec": 142,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T15:49:27.791Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000373",
+      "client_id": "client_000373",
+      "view_id": "view_00002008",
+      "session_duration_sec": 16,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T12:36:04.207Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000374",
+      "client_id": "client_000374",
+      "view_id": "view_00002024",
+      "session_duration_sec": 143,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_pharmacy",
+        "cat_food",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_coffee"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T05:35:18.683Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000374",
+      "client_id": "client_000374",
+      "view_id": "view_00002025",
+      "session_duration_sec": 77,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T16:59:40.156Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000375",
+      "client_id": "client_000375",
+      "view_id": "view_00002041",
+      "session_duration_sec": 115,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_food",
+        "cat_transport",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T17:04:26.581Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000376",
+      "client_id": "client_000376",
+      "view_id": "view_00002044",
+      "session_duration_sec": 121,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_food",
+        "cat_coffee",
+        "cat_transport",
+        "cat_pharmacy",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T19:28:59.855Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000377",
+      "client_id": "client_000377",
+      "view_id": "view_00002052",
+      "session_duration_sec": 172,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_clothing",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-12T20:38:04.324Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000379",
+      "client_id": "client_000379",
+      "view_id": "view_00002063",
+      "session_duration_sec": 66,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_transport",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-15T06:58:43.507Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000382",
+      "client_id": "client_000382",
+      "view_id": "view_00002068",
+      "session_duration_sec": 47,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T03:34:12.379Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000383",
+      "client_id": "client_000383",
+      "view_id": "view_00002069",
+      "session_duration_sec": 145,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T22:58:03.473Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000384",
+      "client_id": "client_000384",
+      "view_id": "view_00002072",
+      "session_duration_sec": 49,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_food",
+        "cat_transport",
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_transport",
+        "cat_fuel",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T09:57:22.856Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000385",
+      "client_id": "client_000385",
+      "view_id": "view_00002081",
+      "session_duration_sec": 137,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_groceries",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T17:12:44.444Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000386",
+      "client_id": "client_000386",
+      "view_id": "view_00002089",
+      "session_duration_sec": 33,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_fuel",
+        "cat_transport",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T23:24:38.881Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000387",
+      "client_id": "client_000387",
+      "view_id": "view_00002098",
+      "session_duration_sec": 134,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_clothing",
+        "cat_transport",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T07:30:24.922Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000388",
+      "client_id": "client_000388",
+      "view_id": "view_00002101",
+      "session_duration_sec": 166,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_transport",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T21:10:16.519Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000391",
+      "client_id": "client_000391",
+      "view_id": "view_00002110",
+      "session_duration_sec": 129,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_fuel"
+      ],
+      "offers_clicked": [],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T02:18:02.491Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000394",
+      "client_id": "client_000394",
+      "view_id": "view_00002115",
+      "session_duration_sec": 144,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_entertainment",
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T00:08:33.302Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000394",
+      "client_id": "client_000394",
+      "view_id": "view_00002116",
+      "session_duration_sec": 116,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_groceries",
+        "cat_clothing",
+        "cat_fuel",
+        "cat_food"
+      ],
+      "offers_clicked": [],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T23:45:51.360Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000395",
+      "client_id": "client_000395",
+      "view_id": "view_00002129",
+      "session_duration_sec": 110,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_groceries",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_groceries",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T07:11:58.503Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000396",
+      "client_id": "client_000396",
+      "view_id": "view_00002138",
+      "session_duration_sec": 72,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T13:06:22.630Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000396",
+      "client_id": "client_000396",
+      "view_id": "view_00002139",
+      "session_duration_sec": 53,
+      "available_cashback_type_ids": [
+        "cat_transport",
+        "cat_food",
+        "cat_coffee",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T07:34:13.515Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000397",
+      "client_id": "client_000397",
+      "view_id": "view_00002154",
+      "session_duration_sec": 79,
+      "available_cashback_type_ids": [
+        "cat_food",
+        "cat_fuel",
+        "cat_coffee",
+        "cat_transport",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-21T17:56:16.844Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000399",
+      "client_id": "client_000399",
+      "view_id": "view_00002165",
+      "session_duration_sec": 58,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_food",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_fuel",
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T16:39:04.969Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000399",
+      "client_id": "client_000399",
+      "view_id": "view_00002166",
+      "session_duration_sec": 135,
+      "available_cashback_type_ids": [
+        "cat_clothing",
+        "cat_food",
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_food",
+        "cat_fuel",
+        "cat_transport"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T07:39:41.122Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000400",
+      "client_id": "client_000400",
+      "view_id": "view_00002180",
+      "session_duration_sec": 25,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_food"
+      ],
+      "app_platform": "web",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T05:45:53.584Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000403",
+      "client_id": "client_000403",
+      "view_id": "view_00002192",
+      "session_duration_sec": 119,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_coffee",
+        "cat_transport",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_clothing",
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T21:05:16.651Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000404",
+      "client_id": "client_000404",
+      "view_id": "view_00002195",
+      "session_duration_sec": 180,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_fuel",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_fuel",
+        "cat_groceries",
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T10:09:06.924Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000406",
+      "client_id": "client_000406",
+      "view_id": "view_00002201",
+      "session_duration_sec": 15,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_clothing",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [
+        "cat_entertainment",
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T08:16:17.118Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000406",
+      "client_id": "client_000406",
+      "view_id": "view_00002202",
+      "session_duration_sec": 64,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_transport",
+        "cat_groceries",
+        "cat_coffee",
+        "cat_food"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T01:36:02.860Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000406",
+      "client_id": "client_000406",
+      "view_id": "view_00002203",
+      "session_duration_sec": 27,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_pharmacy"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T16:39:20.455Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000409",
+      "client_id": "client_000409",
+      "view_id": "view_00002223",
+      "session_duration_sec": 169,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-21T07:33:07.845Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000410",
+      "client_id": "client_000410",
+      "view_id": "view_00002225",
+      "session_duration_sec": 105,
+      "available_cashback_type_ids": [
+        "cat_entertainment",
+        "cat_food",
+        "cat_clothing"
+      ],
+      "offers_clicked": [
+        "cat_entertainment"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T19:55:32.542Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000410",
+      "client_id": "client_000410",
+      "view_id": "view_00002226",
+      "session_duration_sec": 82,
+      "available_cashback_type_ids": [
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "offers_clicked": [
+        "cat_coffee",
+        "cat_pharmacy"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-23T22:32:20.414Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000411",
+      "client_id": "client_000411",
+      "view_id": "view_00002240",
+      "session_duration_sec": 50,
+      "available_cashback_type_ids": [
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_food",
+        "cat_clothing",
+        "cat_transport"
+      ],
+      "offers_clicked": [
+        "cat_food"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T22:36:23.614Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000411",
+      "client_id": "client_000411",
+      "view_id": "view_00002241",
+      "session_duration_sec": 164,
+      "available_cashback_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_groceries",
+        "cat_fuel",
+        "cat_coffee",
+        "cat_clothing"
+      ],
+      "offers_clicked": [],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T16:51:13.428Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000412",
+      "client_id": "client_000412",
+      "view_id": "view_00002256",
+      "session_duration_sec": 7,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_clothing",
+        "cat_transport",
+        "cat_fuel",
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "offers_clicked": [
+        "cat_clothing"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T12:38:41.392Z"
+  },
+  {
+    "event": "reward_section_viewed",
+    "properties": {
+      "distinct_id": "client_000413",
+      "client_id": "client_000413",
+      "view_id": "view_00002264",
+      "session_duration_sec": 93,
+      "available_cashback_type_ids": [
+        "cat_coffee",
+        "cat_transport",
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_fuel"
+      ],
+      "offers_clicked": [
+        "cat_coffee"
+      ],
+      "app_platform": "mobile",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T04:31:27.604Z"
+  }
+]

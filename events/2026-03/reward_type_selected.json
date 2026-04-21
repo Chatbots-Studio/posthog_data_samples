@@ -1,0 +1,2214 @@
+[
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000003",
+      "client_id": "client_000003",
+      "selection_id": "sel_00000002",
+      "reward_type_ids": [
+        "cat_transport",
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport",
+          "cat_groceries",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-04T06:35:41.965Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000005",
+      "client_id": "client_000005",
+      "selection_id": "sel_00000008",
+      "reward_type_ids": [
+        "cat_transport",
+        "cat_food"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport",
+          "cat_food"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-03T01:20:02.944Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000006",
+      "client_id": "client_000006",
+      "selection_id": "sel_00000014",
+      "reward_type_ids": [
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_coffee",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-08T08:23:27.212Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000008",
+      "client_id": "client_000008",
+      "selection_id": "sel_00000018",
+      "reward_type_ids": [
+        "cat_transport",
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport",
+          "cat_food",
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-13T06:26:29.785Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000014",
+      "client_id": "client_000014",
+      "selection_id": "sel_00000024",
+      "reward_type_ids": [
+        "cat_food"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_food"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-05T13:11:36.807Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000018",
+      "client_id": "client_000018",
+      "selection_id": "sel_00000034",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T01:02:05.332Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000036",
+      "client_id": "client_000036",
+      "selection_id": "sel_00000044",
+      "reward_type_ids": [
+        "cat_groceries"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-12T22:57:21.179Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000037",
+      "client_id": "client_000037",
+      "selection_id": "sel_00000051",
+      "reward_type_ids": [
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_entertainment"
+        ],
+        "rate": 0.005,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "control_group",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-07T09:31:41.757Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000044",
+      "client_id": "client_000044",
+      "selection_id": "sel_00000059",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T16:57:46.410Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000052",
+      "client_id": "client_000052",
+      "selection_id": "sel_00000061",
+      "reward_type_ids": [
+        "cat_coffee"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_coffee"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-04T01:04:09.922Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000056",
+      "client_id": "client_000056",
+      "selection_id": "sel_00000068",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_fuel",
+        "cat_food"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_fuel",
+          "cat_food"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-05T14:07:09.500Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000061",
+      "client_id": "client_000061",
+      "selection_id": "sel_00000074",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_food"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_clothing",
+          "cat_food"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-09T07:21:15.860Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000067",
+      "client_id": "client_000067",
+      "selection_id": "sel_00000081",
+      "reward_type_ids": [
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T13:16:42.669Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000069",
+      "client_id": "client_000069",
+      "selection_id": "sel_00000083",
+      "reward_type_ids": [
+        "cat_fuel",
+        "cat_coffee"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel",
+          "cat_coffee"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-01T13:23:48.507Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000077",
+      "client_id": "client_000077",
+      "selection_id": "sel_00000094",
+      "reward_type_ids": [
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T11:15:07.958Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000081",
+      "client_id": "client_000081",
+      "selection_id": "sel_00000103",
+      "reward_type_ids": [
+        "cat_coffee",
+        "cat_food",
+        "cat_transport"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_coffee",
+          "cat_food",
+          "cat_transport"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-20T15:16:16.355Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000082",
+      "client_id": "client_000082",
+      "selection_id": "sel_00000107",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_food",
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_food",
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-19T05:54:26.699Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000082",
+      "client_id": "client_000082",
+      "selection_id": "sel_00000108",
+      "reward_type_ids": [
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T21:13:04.648Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000088",
+      "client_id": "client_000088",
+      "selection_id": "sel_00000115",
+      "reward_type_ids": [
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T19:20:02.517Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000089",
+      "client_id": "client_000089",
+      "selection_id": "sel_00000120",
+      "reward_type_ids": [
+        "cat_fuel",
+        "cat_coffee"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel",
+          "cat_coffee"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T23:43:29.857Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000099",
+      "client_id": "client_000099",
+      "selection_id": "sel_00000125",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_transport"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_transport"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T22:54:26.502Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000104",
+      "client_id": "client_000104",
+      "selection_id": "sel_00000135",
+      "reward_type_ids": [
+        "cat_food",
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_food",
+          "cat_pharmacy",
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-11T18:38:06.192Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000123",
+      "client_id": "client_000123",
+      "selection_id": "sel_00000148",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_groceries",
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_groceries",
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T18:36:40.773Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000126",
+      "client_id": "client_000126",
+      "selection_id": "sel_00000156",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_food"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_food"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T00:13:48.279Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000127",
+      "client_id": "client_000127",
+      "selection_id": "sel_00000159",
+      "reward_type_ids": [
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T01:30:44.858Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000128",
+      "client_id": "client_000128",
+      "selection_id": "sel_00000160",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-12T11:46:10.995Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000131",
+      "client_id": "client_000131",
+      "selection_id": "sel_00000166",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_transport"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_transport"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T12:49:14.659Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000132",
+      "client_id": "client_000132",
+      "selection_id": "sel_00000169",
+      "reward_type_ids": [
+        "cat_transport",
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport",
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-04T15:37:20.405Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000135",
+      "client_id": "client_000135",
+      "selection_id": "sel_00000172",
+      "reward_type_ids": [
+        "cat_coffee"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_coffee"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-26T09:24:18.772Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000137",
+      "client_id": "client_000137",
+      "selection_id": "sel_00000173",
+      "reward_type_ids": [
+        "cat_transport"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T20:59:03.519Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000140",
+      "client_id": "client_000140",
+      "selection_id": "sel_00000180",
+      "reward_type_ids": [
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-06T03:33:05.793Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000141",
+      "client_id": "client_000141",
+      "selection_id": "sel_00000181",
+      "reward_type_ids": [
+        "cat_food",
+        "cat_clothing",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_food",
+          "cat_clothing",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-13T21:01:09.971Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000149",
+      "client_id": "client_000149",
+      "selection_id": "sel_00000188",
+      "reward_type_ids": [
+        "cat_entertainment",
+        "cat_food",
+        "cat_coffee"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_entertainment",
+          "cat_food",
+          "cat_coffee"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T06:36:26.696Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000151",
+      "client_id": "client_000151",
+      "selection_id": "sel_00000195",
+      "reward_type_ids": [
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-10T00:15:26.934Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000152",
+      "client_id": "client_000152",
+      "selection_id": "sel_00000200",
+      "reward_type_ids": [
+        "cat_food",
+        "cat_entertainment",
+        "cat_groceries"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_food",
+          "cat_entertainment",
+          "cat_groceries"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T07:42:26.623Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000157",
+      "client_id": "client_000157",
+      "selection_id": "sel_00000207",
+      "reward_type_ids": [
+        "cat_clothing",
+        "cat_fuel",
+        "cat_transport"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_clothing",
+          "cat_fuel",
+          "cat_transport"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T02:19:11.154Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000159",
+      "client_id": "client_000159",
+      "selection_id": "sel_00000212",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_food",
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_food",
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T03:52:35.948Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000165",
+      "client_id": "client_000165",
+      "selection_id": "sel_00000222",
+      "reward_type_ids": [
+        "cat_transport",
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport",
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T17:07:46.180Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000168",
+      "client_id": "client_000168",
+      "selection_id": "sel_00000226",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_coffee",
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_coffee",
+          "cat_pharmacy"
+        ],
+        "rate": 0.005,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "control_group",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-04T19:19:30.474Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000170",
+      "client_id": "client_000170",
+      "selection_id": "sel_00000228",
+      "reward_type_ids": [
+        "cat_entertainment",
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_entertainment",
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T23:27:11.301Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000171",
+      "client_id": "client_000171",
+      "selection_id": "sel_00000232",
+      "reward_type_ids": [
+        "cat_fuel",
+        "cat_food"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel",
+          "cat_food"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-06T11:01:32.949Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000177",
+      "client_id": "client_000177",
+      "selection_id": "sel_00000248",
+      "reward_type_ids": [
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_entertainment",
+          "cat_pharmacy",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T09:44:41.815Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000187",
+      "client_id": "client_000187",
+      "selection_id": "sel_00000255",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_clothing",
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_clothing",
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T12:55:31.490Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000199",
+      "client_id": "client_000199",
+      "selection_id": "sel_00000264",
+      "reward_type_ids": [
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T11:49:45.404Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000200",
+      "client_id": "client_000200",
+      "selection_id": "sel_00000266",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_fuel",
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_fuel",
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T22:46:37.666Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000206",
+      "client_id": "client_000206",
+      "selection_id": "sel_00000275",
+      "reward_type_ids": [
+        "cat_groceries"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-16T05:10:22.345Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000211",
+      "client_id": "client_000211",
+      "selection_id": "sel_00000282",
+      "reward_type_ids": [
+        "cat_coffee",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_coffee",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T18:59:47.032Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000216",
+      "client_id": "client_000216",
+      "selection_id": "sel_00000290",
+      "reward_type_ids": [
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T15:59:49.235Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000217",
+      "client_id": "client_000217",
+      "selection_id": "sel_00000292",
+      "reward_type_ids": [
+        "cat_transport"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-10T00:13:57.005Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000223",
+      "client_id": "client_000223",
+      "selection_id": "sel_00000296",
+      "reward_type_ids": [
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T10:38:51.000Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000235",
+      "client_id": "client_000235",
+      "selection_id": "sel_00000299",
+      "reward_type_ids": [
+        "cat_transport",
+        "cat_fuel",
+        "cat_coffee"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport",
+          "cat_fuel",
+          "cat_coffee"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T10:33:43.506Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000252",
+      "client_id": "client_000252",
+      "selection_id": "sel_00000316",
+      "reward_type_ids": [
+        "cat_fuel",
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel",
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T13:44:22.532Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000263",
+      "client_id": "client_000263",
+      "selection_id": "sel_00000323",
+      "reward_type_ids": [
+        "cat_fuel",
+        "cat_coffee",
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel",
+          "cat_coffee",
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-20T11:09:54.225Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000265",
+      "client_id": "client_000265",
+      "selection_id": "sel_00000325",
+      "reward_type_ids": [
+        "cat_clothing",
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_clothing",
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-05T13:02:46.312Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000266",
+      "client_id": "client_000266",
+      "selection_id": "sel_00000327",
+      "reward_type_ids": [
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T17:53:57.445Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000272",
+      "client_id": "client_000272",
+      "selection_id": "sel_00000331",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_fuel",
+        "cat_transport"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_fuel",
+          "cat_transport"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T10:49:00.386Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000274",
+      "client_id": "client_000274",
+      "selection_id": "sel_00000336",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_coffee",
+        "cat_groceries"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_coffee",
+          "cat_groceries"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T23:24:15.562Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000284",
+      "client_id": "client_000284",
+      "selection_id": "sel_00000348",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_clothing",
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_clothing",
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-09T16:26:04.407Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000299",
+      "client_id": "client_000299",
+      "selection_id": "sel_00000363",
+      "reward_type_ids": [
+        "cat_transport",
+        "cat_groceries"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport",
+          "cat_groceries"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T00:35:41.118Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000307",
+      "client_id": "client_000307",
+      "selection_id": "sel_00000369",
+      "reward_type_ids": [
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-08T02:20:34.614Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000307",
+      "client_id": "client_000307",
+      "selection_id": "sel_00000370",
+      "reward_type_ids": [
+        "cat_fuel",
+        "cat_entertainment",
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel",
+          "cat_entertainment",
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-08T04:46:11.163Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000310",
+      "client_id": "client_000310",
+      "selection_id": "sel_00000372",
+      "reward_type_ids": [
+        "cat_food",
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_food",
+          "cat_coffee",
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-21T16:43:48.108Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000315",
+      "client_id": "client_000315",
+      "selection_id": "sel_00000379",
+      "reward_type_ids": [
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-05T10:20:42.043Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000317",
+      "client_id": "client_000317",
+      "selection_id": "sel_00000383",
+      "reward_type_ids": [
+        "cat_clothing",
+        "cat_pharmacy",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_clothing",
+          "cat_pharmacy",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T14:51:53.016Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000325",
+      "client_id": "client_000325",
+      "selection_id": "sel_00000394",
+      "reward_type_ids": [
+        "cat_food",
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_food",
+          "cat_clothing"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T07:59:57.097Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000326",
+      "client_id": "client_000326",
+      "selection_id": "sel_00000397",
+      "reward_type_ids": [
+        "cat_transport"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T14:52:53.107Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000329",
+      "client_id": "client_000329",
+      "selection_id": "sel_00000400",
+      "reward_type_ids": [
+        "cat_coffee",
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_coffee",
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T16:52:00.557Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000331",
+      "client_id": "client_000331",
+      "selection_id": "sel_00000402",
+      "reward_type_ids": [
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-18T02:40:12.692Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000338",
+      "client_id": "client_000338",
+      "selection_id": "sel_00000409",
+      "reward_type_ids": [
+        "cat_entertainment",
+        "cat_fuel",
+        "cat_clothing"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_entertainment",
+          "cat_fuel",
+          "cat_clothing"
+        ],
+        "rate": 0.005,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "control_group",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T20:45:41.033Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000340",
+      "client_id": "client_000340",
+      "selection_id": "sel_00000418",
+      "reward_type_ids": [
+        "cat_food",
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_food",
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T02:22:48.032Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000342",
+      "client_id": "client_000342",
+      "selection_id": "sel_00000423",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-28T03:52:04.490Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000347",
+      "client_id": "client_000347",
+      "selection_id": "sel_00000428",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_entertainment",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_entertainment",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-29T08:09:20.224Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000350",
+      "client_id": "client_000350",
+      "selection_id": "sel_00000433",
+      "reward_type_ids": [
+        "cat_fuel",
+        "cat_clothing",
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel",
+          "cat_clothing",
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-07T17:19:12.293Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000356",
+      "client_id": "client_000356",
+      "selection_id": "sel_00000444",
+      "reward_type_ids": [
+        "cat_transport",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_transport",
+          "cat_fuel"
+        ],
+        "rate": 0.005,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "control_group",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T07:57:49.377Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000359",
+      "client_id": "client_000359",
+      "selection_id": "sel_00000448",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-25T14:38:36.085Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000362",
+      "client_id": "client_000362",
+      "selection_id": "sel_00000455",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_food"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_food"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T22:21:53.880Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000365",
+      "client_id": "client_000365",
+      "selection_id": "sel_00000458",
+      "reward_type_ids": [
+        "cat_food",
+        "cat_entertainment",
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_food",
+          "cat_entertainment",
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-17T01:52:03.554Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000370",
+      "client_id": "client_000370",
+      "selection_id": "sel_00000469",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-04T19:15:11.364Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000373",
+      "client_id": "client_000373",
+      "selection_id": "sel_00000477",
+      "reward_type_ids": [
+        "cat_clothing",
+        "cat_transport"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_clothing",
+          "cat_transport"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-27T05:06:03.511Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000374",
+      "client_id": "client_000374",
+      "selection_id": "sel_00000483",
+      "reward_type_ids": [
+        "cat_food",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_food",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T09:05:54.538Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000385",
+      "client_id": "client_000385",
+      "selection_id": "sel_00000496",
+      "reward_type_ids": [
+        "cat_pharmacy",
+        "cat_transport"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_pharmacy",
+          "cat_transport"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-05T23:51:32.045Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000396",
+      "client_id": "client_000396",
+      "selection_id": "sel_00000508",
+      "reward_type_ids": [
+        "cat_entertainment",
+        "cat_pharmacy",
+        "cat_coffee"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_entertainment",
+          "cat_pharmacy",
+          "cat_coffee"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-31T10:05:45.814Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000397",
+      "client_id": "client_000397",
+      "selection_id": "sel_00000513",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_coffee",
+        "cat_pharmacy"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_coffee",
+          "cat_pharmacy"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-07T19:54:41.732Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000399",
+      "client_id": "client_000399",
+      "selection_id": "sel_00000515",
+      "reward_type_ids": [
+        "cat_food"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_food"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-24T14:56:22.138Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000400",
+      "client_id": "client_000400",
+      "selection_id": "sel_00000519",
+      "reward_type_ids": [
+        "cat_clothing",
+        "cat_food"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_clothing",
+          "cat_food"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-12T15:36:48.069Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000406",
+      "client_id": "client_000406",
+      "selection_id": "sel_00000524",
+      "reward_type_ids": [
+        "cat_fuel",
+        "cat_entertainment"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_fuel",
+          "cat_entertainment"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-22T16:39:57.660Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000410",
+      "client_id": "client_000410",
+      "selection_id": "sel_00000532",
+      "reward_type_ids": [
+        "cat_groceries"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-15T22:33:53.493Z"
+  },
+  {
+    "event": "reward_type_selected",
+    "properties": {
+      "distinct_id": "client_000411",
+      "client_id": "client_000411",
+      "selection_id": "sel_00000536",
+      "reward_type_ids": [
+        "cat_groceries",
+        "cat_fuel"
+      ],
+      "valid_from": "2026-03-01",
+      "valid_to": "2026-03-31",
+      "config": {
+        "reward_type_ids": [
+          "cat_groceries",
+          "cat_fuel"
+        ],
+        "rate": 0.02,
+        "max_cashback_month_uah": 500
+      },
+      "cashback_tier": "standard",
+      "month_index": 0
+    },
+    "timestamp": "2026-03-30T19:17:58.489Z"
+  }
+]

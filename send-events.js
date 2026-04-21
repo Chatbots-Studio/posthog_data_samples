@@ -24,6 +24,8 @@ import {
 /** Дефолт — PostHog Cloud EU. Для self-hosted задайте POSTHOG_HOST (базовий URL інстансу або повний шлях до /capture/). */
 const DEFAULT_POSTHOG_CAPTURE = "https://eu.i.posthog.com/capture/";
 const BATCH_SIZE = 100;
+/** Завжди додається до `properties` кожної відправленої події (фільтр у PostHog). */
+const EVENT_SOURCE = "posthog_data_samples";
 
 /**
  * POSTHOG_HOST: база інстансу (https://posthog.example.com) або повний ingest URL (.../capture/).
@@ -37,10 +39,6 @@ function resolveCaptureUrl(raw) {
   return `${u}/capture/`;
 }
 
-/**
- * PostHog при успішному прийомі пакета з валідним project token повертає HTTP 200 і JSON {"status":"Ok"}.
- * @see https://posthog.com/docs/api/overview#status-code-200
- */
 /** Для логів: префікс + початок/кінець секретної частини, без повного ключа. */
 function maskApiKey(key) {
   if (!key?.trim()) return "(не задано)";
@@ -54,6 +52,16 @@ function maskApiKey(key) {
   return `${k.slice(0, 6)}…${k.slice(-4)}`;
 }
 
+/**
+ * Успішний прийом: у документації Cloud — `{"status":"Ok"}`; на частині інстансів (capture-rs / self-hosted) — `{"status":1}`.
+ * @see https://posthog.com/docs/api/overview#status-code-200
+ */
+function isCaptureSuccessStatus(st) {
+  if (st === "Ok" || st === "ok") return true;
+  if (st === 1 || st === "1") return true;
+  return false;
+}
+
 function assertPosthogCaptureAccepted(httpStatus, responseText, label) {
   if (httpStatus !== 200) {
     throw new Error(
@@ -65,13 +73,13 @@ function assertPosthogCaptureAccepted(httpStatus, responseText, label) {
     data = JSON.parse(responseText);
   } catch {
     throw new Error(
-      `${label}: тіло відповіді не JSON (очікується {"status":"Ok"} від PostHog).\n` +
+      `${label}: тіло відповіді не JSON (очікується відповідь ingest PostHog).\n` +
         `Фрагмент відповіді: ${responseText.slice(0, 400)}\n` +
         `Перевірте, що URL — це саме ingest PostHog (.../capture/), а не сторінка проксі/HTML.`
     );
   }
   const st = data?.status;
-  if (st === "Ok" || st === "ok") {
+  if (isCaptureSuccessStatus(st)) {
     return data;
   }
   if (data?.type && data?.code) {
@@ -106,7 +114,11 @@ function printIngestBanner(captureUrl, envHostRaw, { dryRun, apiKeyMask }) {
 async function verifyPosthogIngest(captureUrl, apiKey) {
   const probe = {
     event: "probe_connection",
-    properties: { $lib: "posthog_data_samples", probe: true },
+    properties: {
+      $lib: "posthog_data_samples",
+      probe: true,
+      source: EVENT_SOURCE,
+    },
     distinct_id: `probe_${process.pid}_${Date.now()}`,
     timestamp: new Date().toISOString(),
   };
@@ -290,7 +302,7 @@ async function sendEvents(
     batchNum += 1;
     const chunk = events.slice(i, i + batchSize).map((row) => ({
       event: row.event,
-      properties: row.properties,
+      properties: { ...(row.properties || {}), source: EVENT_SOURCE },
       timestamp: row.timestamp,
     }));
     await postBatch(captureUrl, apiKey, chunk, dryRun);

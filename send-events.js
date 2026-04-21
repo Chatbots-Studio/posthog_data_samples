@@ -3,6 +3,7 @@
  * Читає згенеровані JSON-файли з папки <dir>/<YYYY-MM>/ і відправляє у PostHog (EU).
  *
  *   POSTHOG_API_KEY=phc_... node send-events.js                     # усі місяці з events/
+ *   POSTHOG_HOST=https://... node send-events.js                  # self-hosted або інший ingest
  *   POSTHOG_API_KEY=phc_... node send-events.js --month 2026-03    # тільки один місяць
  *   node send-events.js --only transactions
  *   node send-events.js --only card_activated
@@ -20,8 +21,42 @@ import {
   parseYearMonth,
 } from "./lib/generate-activation-events.js";
 
-const POSTHOG_HOST = "https://eu.i.posthog.com/capture/";
+/** Дефолт — PostHog Cloud EU. Для self-hosted задайте POSTHOG_HOST (базовий URL інстансу або повний шлях до /capture/). */
+const DEFAULT_POSTHOG_CAPTURE = "https://eu.i.posthog.com/capture/";
 const BATCH_SIZE = 100;
+
+/**
+ * POSTHOG_HOST: база інстансу (https://posthog.example.com) або повний ingest URL (.../capture/).
+ */
+function resolveCaptureUrl(raw) {
+  if (!raw?.trim()) return DEFAULT_POSTHOG_CAPTURE;
+  let u = raw.trim();
+  if (!/^https?:\/\//i.test(u)) u = `https://${u}`;
+  u = u.replace(/\/+$/, "");
+  if (/\/capture$/i.test(u)) return `${u}/`;
+  return `${u}/capture/`;
+}
+
+async function verifyPosthogIngest(captureUrl, apiKey) {
+  const probe = {
+    event: "probe_connection",
+    properties: { $lib: "posthog_data_samples", probe: true },
+    distinct_id: `probe_${process.pid}_${Date.now()}`,
+    timestamp: new Date().toISOString(),
+  };
+  const body = JSON.stringify({ api_key: apiKey, batch: [probe] });
+  const res = await fetch(captureUrl, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body,
+  });
+  const text = await res.text();
+  if (!res.ok) {
+    throw new Error(
+      `Перевірка прийому подій не пройшла: HTTP ${res.status} ${text.slice(0, 400)}\nIngest URL: ${captureUrl}`
+    );
+  }
+}
 
 function parseArgs(argv) {
   const out = {
@@ -29,6 +64,7 @@ function parseArgs(argv) {
     dir: "events",
     only: "all",
     dryRun: false,
+    skipVerify: false,
     batchSize: BATCH_SIZE,
     showProgress: true,
   };
@@ -42,6 +78,8 @@ function parseArgs(argv) {
       out.only = argv[++i];
     } else if (a === "--dry-run") {
       out.dryRun = true;
+    } else if (a === "--skip-verify") {
+      out.skipVerify = true;
     } else if (a === "--no-progress") {
       out.showProgress = false;
     } else if (a === "--batch-size" && argv[i + 1]) {
@@ -65,10 +103,11 @@ function printHelp() {
   )}
                          або ім'я події, напр. card_activated, transaction_completed
   --dry-run              підрахунок без відправки
+  --skip-verify          не перевіряти ключ і ingest перед відправкою (не рекомендовано)
   --batch-size N         розмір пакета для PostHog API (дефолт ${BATCH_SIZE})
   --no-progress          без рядка прогресу
 
-Потрібна змінна POSTHOG_API_KEY (крім --dry-run).`);
+Змінні: POSTHOG_API_KEY (крім --dry-run), POSTHOG_HOST — ingest URL (дефолт EU Cloud, див. README).`);
 }
 
 const MONTH_RE = /^\d{4}-(0[1-9]|1[0-2])$/;
@@ -123,12 +162,12 @@ async function loadEventsFromDir(absDir) {
   return { meta, eventsByType };
 }
 
-async function postBatch(apiKey, items, dryRun) {
+async function postBatch(captureUrl, apiKey, items, dryRun) {
   if (dryRun) {
     return { ok: true, dryRun: true, count: items.length };
   }
   const body = JSON.stringify({ api_key: apiKey, batch: items });
-  const res = await fetch(POSTHOG_HOST, {
+  const res = await fetch(captureUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body,
@@ -163,7 +202,12 @@ function createProgressReporter(total, batchCount) {
   };
 }
 
-async function sendEvents(apiKey, events, { dryRun, batchSize, showProgress }) {
+async function sendEvents(
+  captureUrl,
+  apiKey,
+  events,
+  { dryRun, batchSize, showProgress }
+) {
   const total = events.length;
   const batchCount = total ? Math.ceil(total / batchSize) : 1;
   const report =
@@ -178,7 +222,7 @@ async function sendEvents(apiKey, events, { dryRun, batchSize, showProgress }) {
       properties: row.properties,
       timestamp: row.timestamp,
     }));
-    await postBatch(apiKey, chunk, dryRun);
+    await postBatch(captureUrl, apiKey, chunk, dryRun);
     sent += chunk.length;
     if (report) report(sent, batchNum);
     if (!dryRun && i + batchSize < events.length) {
@@ -192,7 +236,7 @@ async function sendEvents(apiKey, events, { dryRun, batchSize, showProgress }) {
   return sent;
 }
 
-async function sendMonth(month, args, apiKey) {
+async function sendMonth(month, args, apiKey, captureUrl) {
   const absDir = join(args.dir, month);
   const { meta, eventsByType } = await loadEventsFromDir(absDir);
   const events = filterEvents(eventsByType, args.only);
@@ -215,7 +259,7 @@ async function sendMonth(month, args, apiKey) {
     )
   );
 
-  const sent = await sendEvents(apiKey || "dry", events, {
+  const sent = await sendEvents(captureUrl, apiKey || "dry", events, {
     dryRun: args.dryRun,
     batchSize: args.batchSize,
     showProgress: args.showProgress,
@@ -231,9 +275,33 @@ async function sendMonth(month, args, apiKey) {
 async function main() {
   const args = parseArgs(process.argv);
   const apiKey = process.env.POSTHOG_API_KEY?.trim();
+  const captureUrl = resolveCaptureUrl(process.env.POSTHOG_HOST);
+
   if (!args.dryRun && !apiKey) {
     console.error("Задайте POSTHOG_API_KEY або використайте --dry-run");
     process.exit(1);
+  }
+
+  if (args.dryRun) {
+    console.log(`[dry-run] цільовий ingest URL був би: ${captureUrl}`);
+  }
+
+  if (!args.dryRun && apiKey && !args.skipVerify) {
+    console.log(`Перевірка: ingest URL — ${captureUrl}`);
+    try {
+      await verifyPosthogIngest(captureUrl, apiKey);
+      console.log("Перевірка: ключ прийнято, endpoint відповів успішно.");
+    } catch (e) {
+      console.error(e.message || e);
+      console.error(
+        "Підказка: переконайтесь у POSTHOG_HOST (self-hosted) і що ключ з того ж проєкту. --skip-verify щоб пропустити."
+      );
+      process.exit(1);
+    }
+  } else if (!args.dryRun && args.skipVerify) {
+    console.warn(
+      `Увага: --skip-verify — відправка на ${captureUrl} без перевірки ключа.`
+    );
   }
 
   let months;
@@ -252,7 +320,7 @@ async function main() {
     if (months.length > 1) {
       console.log(`\n=== ${m} ===`);
     }
-    grandTotal += await sendMonth(m, args, apiKey);
+    grandTotal += await sendMonth(m, args, apiKey, captureUrl);
   }
 
   if (months.length > 1) {

@@ -1,6 +1,6 @@
 # PostHog — тестові події активації (цифровий банк)
 
-Генерація і відправка у PostHog (EU) подій активації з модуля винагород для цифрового банку, згідно з моделлю воронки L1→L2→L3→L4 (див. `activation_research.md`).
+Генерація і відправка у PostHog подій активації з модуля винагород для цифрового банку, згідно з моделлю воронки L1→L2→L3→L4 (див. `activation_research.md`). За замовчуванням ingest іде в **PostHog Cloud EU**; для **self-hosted** обов’язково задайте `POSTHOG_HOST` (див. нижче).
 
 ## Вимоги
 
@@ -108,12 +108,37 @@ node generate-events.js --help
 
 ## 2. Відправка у PostHog
 
-Читає всі файли з `events/<YYYY-MM>/` і відправляє пакетами у PostHog (EU).
+Читає всі файли з `events/<YYYY-MM>/` і відправляє пакетами на **ingest endpoint** PostHog (`POST /capture/`).
+
+### Куди саме йдуть дані (обов’язково прочитайте)
+
+| Змінна | Що робить |
+|--------|-----------|
+| *(не задано)* | Використовується **PostHog Cloud EU**: `https://eu.i.posthog.com/capture/` |
+| `POSTHOG_HOST` | Базовий URL вашого інстансу **або** повний шлях до capture |
+
+Приклади:
+
+```bash
+# Cloud EU (те саме, що й без змінної)
+export POSTHOG_HOST="https://eu.i.posthog.com"
+
+# Self-hosted: достатньо домену — скрипт додасть /capture/
+export POSTHOG_HOST="https://posthog.dev.42flows.tech"
+
+# Або повний ingest URL вручну
+export POSTHOG_HOST="https://posthog.dev.42flows.tech/capture/"
+```
+
+Якщо раніше ви запускали відправку **без** `POSTHOG_HOST`, події потрапляли в **хмарний EU-проєкт**, чий ключ ви вказали — помилок могло не бути, бо ключ був валідний для хмари. Для інстансу на [https://posthog.dev.42flows.tech](https://posthog.dev.42flows.tech) потрібен **окремий API key з того ж self-hosted проєкту** і змінна `POSTHOG_HOST` як вище.
+
+Перед першою реальною відправкою скрипт **один раз** надсилає тестову подію `probe_connection` на обраний ingest і перевіряє HTTP-відповідь. Якщо ключ не підходить до цього інстансу або URL не той — процес зупиниться з поясненням. Примусово без перевірки: `node send-events.js --skip-verify` (лише якщо розумієте ризик).
 
 **Усі згенеровані місяці за раз** (без `--month`):
 
 ```bash
 export POSTHOG_API_KEY="phc_ваш_ключ"
+export POSTHOG_HOST="https://posthog.dev.42flows.tech"   # для self-hosted
 node send-events.js
 ```
 
@@ -173,11 +198,12 @@ npm run send:dry-run -- --month 2026-03
 
 | Змінна | Опис |
 |--------|------|
-| `POSTHOG_API_KEY` | Ключ проєкту (`phc_...`). Потрібен для `send-events.js` (крім `--dry-run`). |
+| `POSTHOG_API_KEY` | Персональний API key проєкту (`phc_...`). Має бути виданий **тим самим** PostHog, на який вказує `POSTHOG_HOST`. Потрібен для `send-events.js` (крім `--dry-run`). |
+| `POSTHOG_HOST` | Необов’язково. Базовий URL інстансу (напр. `https://posthog.dev.42flows.tech`) або повний ingest (`.../capture/`). Якщо не задано — `https://eu.i.posthog.com/capture/` (Cloud EU). |
 
 ## Формат API
 
-Endpoint: `POST https://eu.i.posthog.com/capture/`. Відправка йде пакетами `batch`.
+HTTP: `POST <POSTHOG_HOST або дефолт>/capture/` з тілом `{ "api_key": "...", "batch": [ ... ] }`. Для self-hosted шлях той самий — `/capture/` на вашому домені.
 
 ## Безпека
 

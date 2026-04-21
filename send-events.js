@@ -41,6 +41,19 @@ function resolveCaptureUrl(raw) {
  * PostHog при успішному прийомі пакета з валідним project token повертає HTTP 200 і JSON {"status":"Ok"}.
  * @see https://posthog.com/docs/api/overview#status-code-200
  */
+/** Для логів: префікс + початок/кінець секретної частини, без повного ключа. */
+function maskApiKey(key) {
+  if (!key?.trim()) return "(не задано)";
+  const k = key.trim();
+  if (k.length <= 12) return `${k.slice(0, 4)}…`;
+  if (k.startsWith("phc_")) {
+    const body = k.slice(4);
+    if (body.length <= 8) return `phc_${body.slice(0, 2)}…`;
+    return `phc_${body.slice(0, 4)}…${body.slice(-4)}`;
+  }
+  return `${k.slice(0, 6)}…${k.slice(-4)}`;
+}
+
 function assertPosthogCaptureAccepted(httpStatus, responseText, label) {
   if (httpStatus !== 200) {
     throw new Error(
@@ -69,11 +82,12 @@ function assertPosthogCaptureAccepted(httpStatus, responseText, label) {
   );
 }
 
-function printIngestBanner(captureUrl, envHostRaw, { dryRun }) {
+function printIngestBanner(captureUrl, envHostRaw, { dryRun, apiKeyMask }) {
   const lines = [
     "",
     "━━━ Куди йдуть події (ingest) ━━━",
     `  Повний URL: ${captureUrl}`,
+    `  POSTHOG_API_KEY (маска): ${apiKeyMask}`,
   ];
   if (envHostRaw?.trim()) {
     lines.push(`  POSTHOG_HOST у середовищі: ${envHostRaw.trim()}`);
@@ -335,7 +349,10 @@ async function main() {
   const envHost = process.env.POSTHOG_HOST;
   const captureUrl = resolveCaptureUrl(envHost);
 
-  printIngestBanner(captureUrl, envHost, { dryRun: args.dryRun });
+  printIngestBanner(captureUrl, envHost, {
+    dryRun: args.dryRun,
+    apiKeyMask: maskApiKey(apiKey),
+  });
 
   if (!args.dryRun && !apiKey) {
     console.error("Задайте POSTHOG_API_KEY або використайте --dry-run");

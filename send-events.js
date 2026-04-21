@@ -37,6 +37,58 @@ function resolveCaptureUrl(raw) {
   return `${u}/capture/`;
 }
 
+/**
+ * PostHog при успішному прийомі пакета з валідним project token повертає HTTP 200 і JSON {"status":"Ok"}.
+ * @see https://posthog.com/docs/api/overview#status-code-200
+ */
+function assertPosthogCaptureAccepted(httpStatus, responseText, label) {
+  if (httpStatus !== 200) {
+    throw new Error(
+      `${label}: HTTP ${httpStatus} — ${responseText.slice(0, 600)}`
+    );
+  }
+  let data;
+  try {
+    data = JSON.parse(responseText);
+  } catch {
+    throw new Error(
+      `${label}: тіло відповіді не JSON (очікується {"status":"Ok"} від PostHog).\n` +
+        `Фрагмент відповіді: ${responseText.slice(0, 400)}\n` +
+        `Перевірте, що URL — це саме ingest PostHog (.../capture/), а не сторінка проксі/HTML.`
+    );
+  }
+  const st = data?.status;
+  if (st === "Ok" || st === "ok") {
+    return data;
+  }
+  if (data?.type && data?.code) {
+    throw new Error(`${label}: ${JSON.stringify(data)}`);
+  }
+  throw new Error(
+    `${label}: неочікувана відповідь: ${JSON.stringify(data).slice(0, 500)}`
+  );
+}
+
+function printIngestBanner(captureUrl, envHostRaw, { dryRun }) {
+  const lines = [
+    "",
+    "━━━ Куди йдуть події (ingest) ━━━",
+    `  Повний URL: ${captureUrl}`,
+  ];
+  if (envHostRaw?.trim()) {
+    lines.push(`  POSTHOG_HOST у середовищі: ${envHostRaw.trim()}`);
+  } else {
+    lines.push("  POSTHOG_HOST: (не задано) → використано дефолт PostHog Cloud EU");
+  }
+  lines.push(
+    dryRun
+      ? "  Режим: --dry-run (реальних HTTP-запитів не буде)"
+      : "  Режим: реальна відправка"
+  );
+  lines.push("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━", "");
+  console.log(lines.join("\n"));
+}
+
 async function verifyPosthogIngest(captureUrl, apiKey) {
   const probe = {
     event: "probe_connection",
@@ -53,9 +105,13 @@ async function verifyPosthogIngest(captureUrl, apiKey) {
   const text = await res.text();
   if (!res.ok) {
     throw new Error(
-      `Перевірка прийому подій не пройшла: HTTP ${res.status} ${text.slice(0, 400)}\nIngest URL: ${captureUrl}`
+      `Перевірка з’єднання: HTTP ${res.status}\n${text.slice(0, 600)}\nIngest URL: ${captureUrl}`
     );
   }
+  const data = assertPosthogCaptureAccepted(res.status, text, "Перевірка з’єднання");
+  console.log(
+    `Перевірка з’єднання: OK — HTTP ${res.status}, тіло: ${JSON.stringify(data)}`
+  );
 }
 
 function parseArgs(argv) {
@@ -174,8 +230,9 @@ async function postBatch(captureUrl, apiKey, items, dryRun) {
   });
   const text = await res.text();
   if (!res.ok) {
-    throw new Error(`PostHog ${res.status}: ${text.slice(0, 500)}`);
+    throw new Error(`PostHog ${res.status}: ${text.slice(0, 500)}\nURL: ${captureUrl}`);
   }
+  assertPosthogCaptureAccepted(res.status, text, `Пакет подій (${items.length} шт.)`);
   return { ok: true, count: items.length };
 }
 
@@ -275,32 +332,29 @@ async function sendMonth(month, args, apiKey, captureUrl) {
 async function main() {
   const args = parseArgs(process.argv);
   const apiKey = process.env.POSTHOG_API_KEY?.trim();
-  const captureUrl = resolveCaptureUrl(process.env.POSTHOG_HOST);
+  const envHost = process.env.POSTHOG_HOST;
+  const captureUrl = resolveCaptureUrl(envHost);
+
+  printIngestBanner(captureUrl, envHost, { dryRun: args.dryRun });
 
   if (!args.dryRun && !apiKey) {
     console.error("Задайте POSTHOG_API_KEY або використайте --dry-run");
     process.exit(1);
   }
 
-  if (args.dryRun) {
-    console.log(`[dry-run] цільовий ingest URL був би: ${captureUrl}`);
-  }
-
   if (!args.dryRun && apiKey && !args.skipVerify) {
-    console.log(`Перевірка: ingest URL — ${captureUrl}`);
     try {
       await verifyPosthogIngest(captureUrl, apiKey);
-      console.log("Перевірка: ключ прийнято, endpoint відповів успішно.");
     } catch (e) {
       console.error(e.message || e);
       console.error(
-        "Підказка: переконайтесь у POSTHOG_HOST (self-hosted) і що ключ з того ж проєкту. --skip-verify щоб пропустити."
+        "Підказка: перевірте POSTHOG_HOST, що api_key — це Project API Key (phc_…) з цього ж інстансу; --skip-verify лише для діагностики."
       );
       process.exit(1);
     }
   } else if (!args.dryRun && args.skipVerify) {
     console.warn(
-      `Увага: --skip-verify — відправка на ${captureUrl} без перевірки ключа.`
+      "Увага: --skip-verify — пакети підуть без попередньої перевірки; відповідь API на кожен пакет усе одно перевіряється."
     );
   }
 
